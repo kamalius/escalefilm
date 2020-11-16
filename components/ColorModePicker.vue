@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <ul>
-      <li v-for="color of colors" :key="color" class="inline-block p-2">
+  <div class="items-center">
+    <ul class="items-center">
+      <li v-for="color of colors" :key="color" class="inline-block p-1">
         <component
           :is="`icon-${color}`"
           :class="getClasses(color)"
