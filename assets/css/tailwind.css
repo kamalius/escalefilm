@@ -1,0 +1,84 @@
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+  font-family: 'Gloria Hallelujah';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('~assets/fonts/GloriaHallelujah-Regular.ttf') format('truetype');
+}
+
+:root {
+  --color: #1a202c;
+  --color-primary: #c53030;
+  --color-secondary: #0e2233;
+  --color-button: #edf2f7;
+  --bg: #e2e8f0;
+  --bg-secondary: #fff;
+  --border-color: #ddd;
+  --color-tag: #f9af3e;
+  --color-search: #edf2f7;
+  --color-placeholder: #a0aec0;
+  --color-hover: #4a5568;
+}
+
+.dark-mode {
+  --color: #ebf4f1;
+  --color-primary: #c53030;
+  --color-secondary: #fdf9f3;
+  --color-button: #2d3748;
+  --bg: #0e0e10;
+  --bg-secondary: #1a202c;
+  --border-color: #0d2538;
+  --color-search: #2d3748;
+  --color-placeholder: #4a5568;
+  --color-hover: #a0aec0;
+}
+.sepia-mode {
+  --color: #433422;
+  --color-secondary: #504231;
+  --bg: #f1e7d0;
+  --bg-secondary: #eae0c9;
+  --border-color: #ded0bf;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--color);
+  transition: background-color 0.3s;
+  @apply flex flex-col h-screen;
+}
+
+a {
+  color: var(--color);
+}
+
+a:hover {
+  color: #db161c;
+}
+
+@tailwind components;
+
+.heading-anchor {
+    @apply opacity-0 align-top;
+}
+
+.hide-header {
+    transform: translateY(-100%);
+}
+
+@tailwind utilities;
+
+.nice-shadow {
+    box-shadow: 0 3px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 5px -1px rgba(0, 0, 0, 0.06);
+}
+
+.visually-hidden { 
+    @apply block absolute h-px w-px overflow-hidden whitespace-no-wrap;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+    clip-path: inset(1px);
+}
