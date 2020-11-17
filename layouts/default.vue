@@ -9,15 +9,15 @@
             to="/"
             class="flex title-font font-medium items-center mr-3 md:mb-0"
           >
-            <img src="/clapperboard.svg" alt="icon_escalefilm" class="w-8" />
-            <span class="titre font-medium ml-3 mr-3 text-3xl"
+            <img src="/clapperboard.svg" alt="icon_escalefilm" class="w-10" />
+            <span class="hidden lg:block titre font-medium ml-3 mr-3 text-3xl"
               >escale film</span
             >
           </nuxt-link>
         </div>
         <div class="hidden lg:block">
           <div class="flex flex-wrap items-center">
-            <div class="mr-1 mt-2"><ColorModePicker /></div>
+            <div class="mr-2 mt-2"><ColorModePicker /></div>
             <div class="items-end">
               <nav
                 class="md:ml-auto flex flex-wrap items-center text-base justify-end"
@@ -33,7 +33,7 @@
         </div>
         <div class="block lg:hidden items-center">
           <div class="flex flex-wrap items-center">
-            <div class="mr-1 mt-2"><ColorModePicker /></div>
+            <div class="mr-2 mt-2"><ColorModePicker /></div>
             <button
               class="focus:outline-none"
               aria-label="open menu"
