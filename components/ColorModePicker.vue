@@ -1,6 +1,6 @@
 <template>
-  <div class="items-center">
-    <ul class="items-center">
+  <div>
+    <ul>
       <li v-for="color of colors" :key="color" class="inline-block p-1">
         <component
           :is="`icon-${color}`"
@@ -48,7 +48,7 @@ export default {
   top: 0;
   cursor: pointer;
   padding: 1px;
-  background-color: var(--bg-secondary);
+  background-color: var(--bg);
   border: 2px solid var(--border-color);
   margin: 0;
   border-radius: 5px;

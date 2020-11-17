@@ -29,5 +29,5 @@ Les acteurs sont magistraux avec en tête Laia Costa et Frederick Lau.
 Un film coup de poing!! 
 
 <div>
-<iframe width="889" height="500" src="https://www.youtube.com/embed/Q-OskH-O7XA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Q-OskH-O7XA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

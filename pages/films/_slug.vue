@@ -1,5 +1,5 @@
 <template>
-  <article class="flex flex-col max-w-5xl px-2 mx-auto space-y-6 mt-40">
+  <article class="flex flex-col max-w-3xl px-2 mx-auto space-y-6 mt-40">
     <div>
       <p class="text-6xl font-bold">{{ article.title }}</p>
     </div>
@@ -73,15 +73,18 @@ export default {
 }
 
 .nuxt-content div {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  padding-top: 56.25%;
 }
 
 .nuxt-content iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
   margin-bottom: 20px;
-  width: 500px;
-  height: 300px;
+  width: 100%;
+  height: 100%;
 }
 
 .nuxt-content {
