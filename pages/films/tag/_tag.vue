@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-48">
+  <div class="mt-48 mb-auto">
     <div class="mx-auto text-center">
       <h3 class="mb-4 font-bold text-2xl">{{ tag.name }}:</h3>
     </div>
@@ -14,7 +14,7 @@
             :to="{ name: 'films-slug', params: { slug: article.slug } }"
           >
             <div
-              class="flex flex-col rounded-lg shadow-lg overflow-hidden bg-white hover:bg-gray-200"
+              class="flex flex-col rounded-lg shadow-lg overflow-hidden bg-white"
             >
               <img :src="article.image" class="block h-auto w-full" />
               <div class="flex-1 p-6 flex flex-col justify-between">

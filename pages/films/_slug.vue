@@ -27,7 +27,7 @@
       :alt="article.alt"
       class="w-full h-full rounded-sm object-fit"
     />
-    <nuxt-content :document="article" class="border-b-2" />
+    <nuxt-content :document="article" class="pb-3" />
     <prev-next :prev="prev" :next="next" />
   </article>
 </template>

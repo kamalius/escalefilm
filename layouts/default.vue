@@ -9,8 +9,8 @@
             to="/"
             class="flex title-font font-medium items-center mr-3 md:mb-0"
           >
-            <img src="/clapperboard.svg" alt="icon_escalefilm" class="w-10" />
-            <span class="hidden lg:block titre font-medium ml-3 mr-3 text-3xl"
+            <img src="/clapperboard.svg" alt="icon_escalefilm" class="w-12" />
+            <span class="hidden sm:block titre font-medium ml-3 mr-3 text-3xl"
               >escale film</span
             >
           </nuxt-link>
@@ -44,7 +44,11 @@
                 <li class="rounded-full" />
                 <li class="rounded-full" />
               </ul>
-              <span v-if="isOpen" aria-label="close menu" class="font-semibold">
+              <span
+                v-if="isOpen"
+                aria-label="close menu"
+                class="font-bold text-2xl"
+              >
                 X
               </span>
             </button>
@@ -60,7 +64,7 @@
                   >Tags</nuxt-link
                 >
               </li>
-              <li>
+              <li class="my-1">
                 <nuxt-link to="/kamal" class="font-bold">A propos</nuxt-link>
               </li>
               <li>
@@ -97,9 +101,9 @@ header {
 }
 
 .hamburger li {
-  width: 24px;
+  width: 28px;
   height: 4px;
-  margin: 4px 0;
+  margin: 5px 0;
   background-color: var(--color);
 }
 

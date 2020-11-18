@@ -23,16 +23,18 @@ Dans ce contexte Kurosawa a connu quelques difficultés pour faire ce qu'il voul
 Il a cependant pu bénéficier d'un certain assouplissement de la censure.
 Rashomôn reste le film qui a fait connaitre au monde occidentale non seulement Akira Kurosawa mais aussi le cinéma japonais. Si bien qu'il a obtenu le lion d'or au festival de Venise 1951.
 
-Dans ce film Kurosawa montre un maîtrise exceptionnelle de la narration. On est littéralement baladé entre plusieurs versions d'un même récit sans savoir ou est la vérité.
-Et au final le constat reste assez pessimiste: dans tous récit raconté par l'homme il y a une part de mensonges.Il n'y a pas une vérité mais des vérités. Le seul espoir que l'on peut apercevoir est à la fin où le bébé abandonné est adopté par le bûcheron. 
+Dans ce film Kurosawa montre une maîtrise exceptionnelle de la narration. On est littéralement baladé entre plusieurs versions d'un même récit sans savoir où est la vérité.
+Et au final le constat reste assez pessimiste: dans tous récit raconté par l'homme il y a une part de mensonges. Il n'y a pas une vérité mais des vérités. Le seul espoir que l'on peut apercevoir est à la fin où le bébé abandonné est adopté par le bûcheron. 
 
 Au niveau de la mise en scène, j'ai été enchanté par les jeux de lumières et d'ombres dans la forêt les plans rapprochés des visages en sueurs des protagonistes. J'ai trouvé le scène d'ouverture ou le bûcheron marche dans la forêt magnifique. La musique sert parfaitement les récits, notamment l'adaptation du Boléro de Ravel par Fumio Hayasaka.
 
 L’interprétation est irréprochable. Quel présence et quel charisme de Toshiro Mifune. L'actrice Machiko Kyo m'a également épaté.
 
-Je note aussi que le film doit être le plus court Kurosawa (1h25),
+Je note aussi que le film doit être le plus court de Kurosawa (1h25),
 quand on sait que la plupart de ses films font au moins 2h30.
-Ça peut donc être un film pour découvrir le cinéma d'Akira Kurosawa en "douceur".
+Ça peut donc être un bon départ pour découvrir le cinéma d'Akira Kurosawa.
 
 
-
+<div>
+    <iframe src="https://www.youtube.com/embed/aYpxeir4SPw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

@@ -20,7 +20,7 @@ star: "/stars/4_stars.svg"
 
 Une première heure où il ne se passe pas grand chose. Une jeune femme seule qui danse en boîte de nuit au cœur de Berlin. Elle fait la connaissance d'un groupe de fêtards, les suit dans les rues et sur le toit d'un immeuble. Rien de bien intéressant, si ce n'est la façon de filmer les protagonistes. Un plan séquence qui nous plonge complètement au cœur des discussions. Le temps passe et ce plan séquence ininterrompu nous enveloppe et ne nous lâche pas. On s'attache à cette jeunesse. On apprend à les connaitre pour mieux plonger dans le drame qui va suivre.
 
-On sent malgré ce calme que quelque chose de grave peut arriver. La deuxième partie m'a complètement scotché. Un basculement dans dans une spirale folle. La rapidité avec laquelle les événements se succèdent m'a impressionné, surtout grâce à la mise en scène. Quelle maîtrise de Sebastian Schipper!
+On sent malgré ce calme que quelque chose de grave peut arriver. La deuxième partie m'a complètement scotché. Un basculement dans une spirale folle. La rapidité avec laquelle les événements se succèdent m'a impressionné, surtout grâce à la mise en scène. Quelle maîtrise de Sebastian Schipper!
 
 Le plan sequence prends le spectateur par la main pendant...toute la durée du film: 2h15. Un exploit!
 

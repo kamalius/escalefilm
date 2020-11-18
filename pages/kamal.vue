@@ -12,7 +12,7 @@
         la dernière séance. J'ai commencé par découvrir les classiques films
         d'aventures comme La Grande Évasion, Les Douze Salopards, les Westerns
         Spaghettis, les films de Kung fu, les classiques Hollywoodiens (John
-        Ford, Howard Hawks, Cecil B Demille..), les Peplums.<br />
+        Ford, Howard Hawks, Cecil B. DeMille..), les Peplums.<br />
         J'ai par la suite fait connaissance avec le cinéma d'Akira Kurosawa, et
         là ça a été le coup de foudre! Je suis parti découvrir Bergman,
         Tarkovski, W. Herzog, Jarmusch, Melville, Fellini, Eisenstein, Orson
