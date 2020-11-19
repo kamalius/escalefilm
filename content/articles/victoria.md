@@ -22,7 +22,7 @@ Une première heure où il ne se passe pas grand chose. Une jeune femme seule qu
 
 On sent malgré ce calme que quelque chose de grave peut arriver. La deuxième partie m'a complètement scotché. Un basculement dans une spirale folle. La rapidité avec laquelle les événements se succèdent m'a impressionné, surtout grâce à la mise en scène. Quelle maîtrise de Sebastian Schipper!
 
-Le plan sequence prends le spectateur par la main pendant...toute la durée du film: 2h15. Un exploit!
+Le plan séquence prends le spectateur par la main pendant...toute la durée du film: 2h15. Un exploit!
 
 Les acteurs sont magistraux avec en tête Laia Costa et Frederick Lau.
 

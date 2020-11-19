@@ -26,9 +26,9 @@ Rashomôn reste le film qui a fait connaitre au monde occidentale non seulement 
 Dans ce film Kurosawa montre une maîtrise exceptionnelle de la narration. On est littéralement baladé entre plusieurs versions d'un même récit sans savoir où est la vérité.
 Et au final le constat reste assez pessimiste: dans tous récit raconté par l'homme il y a une part de mensonges. Il n'y a pas une vérité mais des vérités. Le seul espoir que l'on peut apercevoir est à la fin où le bébé abandonné est adopté par le bûcheron. 
 
-Au niveau de la mise en scène, j'ai été enchanté par les jeux de lumières et d'ombres dans la forêt les plans rapprochés des visages en sueurs des protagonistes. J'ai trouvé le scène d'ouverture ou le bûcheron marche dans la forêt magnifique. La musique sert parfaitement les récits, notamment l'adaptation du Boléro de Ravel par Fumio Hayasaka.
+Au niveau de la mise en scène, j'ai été enchanté par les jeux de lumières et d'ombres dans la forêt, les plans rapprochés des visages en sueur des protagonistes. J'ai trouvé le scène d'ouverture où le bûcheron marche dans la forêt magnifique. La musique sert parfaitement les récits, notamment l'adaptation du Boléro de Ravel par Fumio Hayasaka.
 
-L’interprétation est irréprochable. Quel présence et quel charisme de Toshiro Mifune. L'actrice Machiko Kyo m'a également épaté.
+L’interprétation est irréprochable. Quel présence et quel charisme de Toshiro Mifune! L'actrice Machiko Kyo m'a également épaté.
 
 Je note aussi que le film doit être le plus court de Kurosawa (1h25),
 quand on sait que la plupart de ses films font au moins 2h30.
