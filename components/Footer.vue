@@ -23,13 +23,13 @@
       <span
         class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start"
       >
-        <a>
+        <a href="https://www.facebook.com/kamal.escalefilm">
           <svg
             fill="currentColor"
             stroke-linecap="round"
             stroke-linejoin="round"
             stroke-width="2"
-            class="w-5 h-5"
+            class="w-6 h-6"
             viewBox="0 0 24 24"
           >
             <path
@@ -37,51 +37,21 @@
             ></path>
           </svg>
         </a>
-        <a class="ml-3">
+        <a href="https://github.com/kamalius" class="ml-3">
           <svg
-            fill="currentColor"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            class="w-5 h-5"
             viewBox="0 0 24 24"
-          >
-            <path
-              d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"
-            ></path>
-          </svg>
-        </a>
-        <a class="ml-3">
-          <svg
             fill="none"
-            stroke="currentColor"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            class="w-5 h-5"
-            viewBox="0 0 24 24"
-          >
-            <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
-            <path
-              d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"
-            ></path>
-          </svg>
-        </a>
-        <a class="ml-3">
-          <svg
-            fill="currentColor"
-            stroke="currentColor"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="0"
-            class="w-5 h-5"
-            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+            class="h-6 w-6 fill-current"
+            data-v-7ac1059d=""
           >
             <path
-              stroke="none"
-              d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"
+              fill-rule="evenodd"
+              clip-rule="evenodd"
+              d="M12.0364 2C5.92958 2 1 6.81593 1 12.7819C1 17.526 4.16376 21.5512 8.57831 22.9888C9.16692 23.0607 9.31407 22.7732 9.31407 22.4857V20.6168C6.22389 21.2637 5.5617 19.1792 5.5617 19.1792C5.04667 17.9573 4.31091 17.5979 4.31091 17.5979C3.28085 16.9509 4.38449 16.9509 4.38449 16.9509C5.48813 17.0228 6.07673 18.0291 6.07673 18.0291C7.03322 19.6824 8.65189 19.1792 9.31407 18.8917C9.38765 18.1729 9.68195 17.7416 10.0498 17.4541C7.62183 17.1666 5.04667 16.2322 5.04667 12.135C5.04667 10.9849 5.48813 9.97863 6.15031 9.25983C6.00316 8.97232 5.63528 7.89412 6.22389 6.38465C6.22389 6.38465 7.18037 6.09713 9.2405 7.46285C10.1234 7.24721 11.0799 7.10345 12.0364 7.10345C12.9929 7.10345 13.9494 7.24721 14.8323 7.46285C16.966 6.09713 17.8489 6.38465 17.8489 6.38465C18.4375 7.89412 18.0696 8.97232 17.9225 9.25983C18.6582 9.97863 19.0261 10.9849 19.0261 12.135C19.0261 16.304 16.4509 17.1666 14.0229 17.4541C14.3908 17.8135 14.7587 18.4604 14.7587 19.4667V22.4138C14.7587 22.7013 14.9794 23.0607 15.4944 22.9169C19.909 21.4794 22.9992 17.4541 22.9992 12.7101C23.0728 6.81593 18.1432 2 12.0364 2Z"
+              fill="currentColor"
+              data-v-7ac1059d=""
             ></path>
-            <circle cx="4" cy="4" r="2" stroke="none"></circle>
           </svg>
         </a>
       </span>
