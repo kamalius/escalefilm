@@ -4,11 +4,11 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: "escale film, simple blog cinema de, Kamal, un passionné",
+    title: "escale film",
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: "Passionné de Cinema, je vous partage les films qui m'ont marqué"},
+      { hid: 'description', name: 'description', content: "simple blog cinema où je vous partage les films qui m'ont marqué"},
     ],
     script: [
       {
