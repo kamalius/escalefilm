@@ -17,7 +17,7 @@
         là ça a été le coup de foudre! Je suis parti découvrir Bergman,
         Tarkovski, W. Herzog, Jarmusch, Melville, Fellini, Eisenstein, Orson
         Welles...et tellement d'autres. A travers ce blog (fait maison 😉 )
-        j'aimerais partager surtout les films qui m'ont plus.
+        j'aimerais partager surtout les films qui m'ont plu.
       </p>
       <span class="inline-block h-1 w-10 rounded mt-6 mb-4"></span>
       <h2 class="font-medium title-font tracking-wider text-sm">
