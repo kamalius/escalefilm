@@ -28,6 +28,9 @@
       class="w-full h-full rounded-sm object-fit"
     />
     <nuxt-content :document="article" class="pb-3" />
+    <div class="comments">
+      <Disqus />
+    </div>
     <prev-next :prev="prev" :next="next" />
   </article>
 </template>
