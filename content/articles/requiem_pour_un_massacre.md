@@ -29,7 +29,7 @@ Elem Klimov s'est servi de témoignages de biélorusses, qui ont survécu à des
 Le réalisateur a même confessé qu'il n'a pas souhaité tout montrer, mais qu'il se devait de témoigner, car lui-même avait des souvenirs précis de cette guerre.
 
 Le résultat est juste exceptionnel. Les scènes éprouvantes se succèdent jusqu'à la fin où la barbarie nous explose aux yeux dans le dernier village.
-La dernière scène du film m'a laissé sans voix. Fiora tire sur un portrait d'Hitler (c'est la seule fois ou il utilisera son arme): le montage fait alors apparaître des images d'archives en remontant le temps, jusqu'à une image du dictateur encore enfant. Le garçon cesse alors de tirer. « Parce qu'un enfant est si précieux qu'il ne faut pas le tuer, même s'il s'agit d'Hitler », dit Elem Klimov.
+La dernière scène du film m'a laissé sans voix. Fiora tire sur un portrait d'Hitler (c'est la seule fois où il utilisera son arme): le montage fait alors apparaître des images d'archives en remontant le temps, jusqu'à une image du dictateur encore enfant. Le garçon cesse alors de tirer. « Parce qu'un enfant est si précieux qu'il ne faut pas le tuer, même s'il s'agit d'Hitler », dit Elem Klimov.
 
 Le film est également connu sous le nom de "viens et vois". Titre trouvé par le frère du réalisateur Guerman Klimov après la lecture du dernier livre du nouveau testament, l'Apocalypse chapitre 6 versets 7 et 8 :
 
