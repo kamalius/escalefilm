@@ -10,7 +10,7 @@
     <div>
       <p>
         Posté par: <span class="font-bold">{{ article.auteur }}</span> le:
-        <span class="font-bold">{{ formatDate(article.createdAt) }}</span>
+        <span class="font-bold">{{ formatDate(article.updatedAt) }}</span>
       </p>
       <div class="mt-5">
         Tags:
