@@ -97,4 +97,11 @@ export default {
 .tag {
   @apply font-bold;
 }
+
+.nuxt-content blockquote {
+  opacity: 0.6;
+  font-style: italic;
+  border-left: 4px solid;
+  padding-left: 8px;
+}
 </style>

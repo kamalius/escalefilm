@@ -3,7 +3,7 @@ title: Stalker
 description: Le chef d'oeuvre de Tarkovski.
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1605532822/stalker_tu6sur.jpg"
 auteur: Kamal
-tags: [Andreï Tarkovski]
+tags: [Andreï Tarkovski, Cinéma russe]
 star: "/stars/5_stars.svg"
 ---
 
