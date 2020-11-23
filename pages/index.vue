@@ -31,7 +31,7 @@
                 </div>
                 <div class="mt-6">
                   <p class="text-gray-600">
-                    posté le {{ formatDate(article.createdAt) }} par:
+                    posté le {{ formatDate(article.post_date) }} par:
                     {{ article.auteur }}
                   </p>
                 </div>
@@ -55,9 +55,9 @@ export default {
         'slug',
         'auteur',
         'star',
-        'createdAt',
+        'post_date',
       ])
-      .sortBy('createdAt', 'asc')
+      .sortBy('post_date', 'desc')
       .fetch()
 
     return {

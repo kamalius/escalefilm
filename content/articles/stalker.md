@@ -5,6 +5,7 @@ image: "https://res.cloudinary.com/escalefilm/image/upload/v1605532822/stalker_t
 auteur: Kamal
 tags: [Andreï Tarkovski, Cinéma russe]
 star: "/stars/5_stars.svg"
+post_date: 2020-10-30
 ---
 
 1. **Genre:** Science Fiction

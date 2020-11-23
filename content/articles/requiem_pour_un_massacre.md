@@ -5,6 +5,7 @@ image: "https://res.cloudinary.com/escalefilm/image/upload/v1606136247/requiem.j
 auteur: Kamal
 tags: [Cinéma russe]
 star: "/stars/5_stars.svg"
+post_date: 2020-11-23
 ---
 
 1. **Genre:** Guerre

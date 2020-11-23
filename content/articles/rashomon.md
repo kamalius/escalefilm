@@ -5,6 +5,7 @@ image: "https://res.cloudinary.com/escalefilm/image/upload/v1605522463/rashomon_
 auteur: Kamal
 tags: [Akira Kurosawa, Toshiro Mifune]
 star: "/stars/4.5_stars.svg"
+post_date: 2020-11-01
 ---
 
 1. **Genre:** Drame

@@ -5,6 +5,7 @@ image: "https://res.cloudinary.com/escalefilm/image/upload/v1605438813/victoria_
 auteur: Kamal
 tags: [Sebastian Schipper]
 star: "/stars/4_stars.svg"
+post_date: 2020-11-14
 ---
 1. **Genre:** Drame
 2. **Réalisateur:** Sebastian Schipper

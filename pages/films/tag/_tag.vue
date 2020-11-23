@@ -34,7 +34,7 @@
 
                 <div class="mt-6">
                   <p class="text-gray-600">
-                    posté le {{ formatDate(article.createdAt) }} par:
+                    posté le {{ formatDate(article.post_date) }} par:
                     {{ article.auteur }}
                   </p>
                 </div>
@@ -57,7 +57,7 @@ export default {
     const tag = tags.length > 0 ? tags[0] : {}
     const articles = await $content('articles', params.slug)
       .where({ tags: { $contains: tag.name } })
-      .sortBy('createdAt', 'asc')
+      .sortBy('post_date', 'desc')
       .fetch()
     return {
       articles,
