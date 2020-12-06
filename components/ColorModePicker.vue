@@ -49,7 +49,6 @@ export default {
   cursor: pointer;
   padding: 1px;
   background-color: var(--bg);
-  border: 2px solid var(--border-color);
   margin: 0;
   border-radius: 5px;
   transition: all 0.1s ease;
@@ -59,7 +58,6 @@ export default {
 }
 .feather.preferred {
   border-color: var(--color-primary);
-  top: -3px;
 }
 .feather.selected {
   color: var(--color-primary);
