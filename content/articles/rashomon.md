@@ -19,7 +19,7 @@ Japon, Kyoto au Xe siècle. A l'abri sous les ruines d'un vieux temple (Rashomô
 
 **Mon avis:**
 
-Rashomôn est sorti en 1950 dans un Japon encore traumatisé par la guerre et les bombardement de Nagasaki et Hiroshima. Le cinéma japonais était sous l'emprise d'une censure de la part de l'occupant américain.
+Rashomôn est sorti en 1950 dans un Japon encore traumatisé par la guerre et les bombardements de Nagasaki et Hiroshima. Le cinéma japonais était sous l'emprise d'une censure de la part de l'occupant américain.
 Dans ce contexte Kurosawa a connu quelques difficultés pour faire ce qu'il voulait.
 Il a cependant pu bénéficier d'un certain assouplissement de la censure.
 Rashomôn reste le film qui a fait connaitre au monde occidentale non seulement Akira Kurosawa mais aussi le cinéma japonais. Si bien qu'il a obtenu le lion d'or au festival de Venise 1951.
