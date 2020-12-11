@@ -21,9 +21,9 @@ Aydın, comédien à la retraite, dirige un petit hôtel, en Anatolie centrale, 
 
 Le seul film de Nuri Bilge Ceylan que j'avais vu jusqu'à présent était Uzak en 2003. Je n'en ai pas gardé un souvenir mémorable. En dehors de ça je ne connais quasiment pas le cinéma turc. Dans mon entourage les feuilletons turcs ont un grand succès. J'ai donc eu la curiosité de découvrir un peu mieux le cinéma turc. En cherchant un peu on tombe logiquement sur les œuvres de Nuri Bilge Ceylan, qui est un cinéaste multi-récompensé dans les festivals les plus prestigieux comme le festival de Cannes.
 
-Apres un début de film surtout centré autour d'un incident entre Aydin et ses locataires, on entre dans des scènes de dialogues intimistes et d'une très grande force. Aydin est un intellectuel, un homme sûr de lui, sans faille, dominateur et étouffant. Personne ne trouve grâce à ses yeux. Il va se retrouver cœur de discussions interminables, féroces et déchirantes avec sa sœur puis sa femme.
+Apres un début de film surtout centré autour d'un incident entre Aydin et ses locataires, on entre dans des scènes de dialogues intimistes et d'une très grande force. Aydin est un intellectuel, un homme sûr de lui, sans faille, dominateur et étouffant. Personne ne trouve grâce à ses yeux. Il va se retrouver au cœur de discussions interminables, féroces et déchirantes avec sa sœur Necla  puis sa femme Nihal.
 
-Etant moi même un grand admirateur des films d'Ingmar Bergman, j'ai cru revoir certains passages de 'Scènes de la vie conjugal' ou 'Saraband'.
+Etant un grand admirateur des films d'Ingmar Bergman, j'ai retrouvé certains passages de 'Scènes de la vie conjugal' ou 'Saraband'.
 Les acteurs sont parfaits. Les paysages sont magnifiques ainsi que les décors intérieurs. Sans oublier la Sonate pour piano de Schubert d'une beauté bouleversante. Trois heures seize de pur bonheur!
 
 <div>
