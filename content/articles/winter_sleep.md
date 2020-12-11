@@ -1,7 +1,7 @@
 ---
 title: Winter Sleep
 description: Palme d’Or Festival de Cannes 2014
-image: "https://res.cloudinary.com/escalefilm/image/upload/v1607684233/vlcsnap-2020-12-11-11h55m38s911_ss1n3u.png"
+image: "https://res.cloudinary.com/escalefilm/image/upload/v1607706695/WINTER_SLEEP_misc4n.jpg"
 auteur: Kamal
 tags: [Cinéma turc]
 star: "/stars/4.5_stars.svg"
