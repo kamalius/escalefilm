@@ -28,3 +28,7 @@ Le film constitue un drame humain qui doit interpeller quiconque a été un roua
 Chaque acteur est bien choisi et donne des performances parfaites. J'ai vraiment vu le duel entre les personnages d'Andrews et de Bannen comme étant le cœur du film.
 
 Dommage qu'un film aussi brillant et remarquable n'ait remporté qu'une poignée de récompenses et soit passé dans une relative obscurité au fil des ans.
+
+<div>
+    <iframe src="https://www.youtube.com/embed/VRZCvG3_RNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
