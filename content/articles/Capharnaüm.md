@@ -30,7 +30,7 @@ La majorité des acteurs du film ont été recrutés dans les rues de Beyrouth. 
 Nadine Labeki a voulu faire ce film pour changer les consciences.
 Peu après le récompense du prix du Jury à Cannes, l'O.N.U envoie une lettre à l'équipe du film pour leur annoncer officiellement que Zain et toute sa famille vont s'installer en Norvège. Zain a enfin pu entrer à l’école et vivre heureux avec toute sa famille. Ce miracle fut possible en partie grâce à l'actrice Cate Blanchett (ambassadrice à l'O.N.U) présidente du festival de Cannes et très émue après la projection du film.
 
-Le film dégage une puissance émotionnel inouïe. Cependant on peut reprocher au film un coté trop mélodramatique. Les bidonvilles de  Beyrouth ainsi que les longues scènes où Nadine Labaki décrit la misère puis l'errance de Zain et du bébé sont extrêmement bien filmées et présentées avec une terrible réalité. Capharnaüm est un film qui marque et qui transperce votre carapace émotionnelle.
+Le film dégage une puissance émotionnelle inouïe. Cependant on peut reprocher au film un coté trop mélodramatique. Les bidonvilles de  Beyrouth ainsi que les longues scènes où Nadine Labaki décrit la misère puis l'errance de Zain et du bébé sont extrêmement bien filmées et présentées avec une terrible réalité. Capharnaüm est un film qui marque et qui transperce votre carapace émotionnelle.
 
 <div>
 <iframe src="https://www.youtube.com/embed/3auhSS0nquQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
