@@ -4,7 +4,7 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: "escale film",
+    title: 'escale film',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -12,8 +12,8 @@ export default {
     ],
     script: [
       {
-        src: 'main.js'
-      }
+        src: 'main.js',
+      },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/clapperboard.svg' }],
   },
@@ -22,9 +22,7 @@ export default {
   css: ['@/assets/css/tailwind.css'],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
-  plugins: [
-    '~/plugins/disqus'
-  ],
+  plugins: ['~/plugins/disqus'],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
   components: true,
@@ -37,9 +35,9 @@ export default {
     '@nuxtjs/stylelint-module',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
-    //https://color-mode.nuxtjs.org/
+    // https://color-mode.nuxtjs.org/
     '@nuxtjs/color-mode',
-    '@nuxtjs/svg'
+    '@nuxtjs/svg',
   ],
 
   // Modules (https://go.nuxtjs.dev/config-modules)
@@ -64,15 +62,15 @@ export default {
       // Exécuter ESLint lors de la sauvegarde
       if (ctx.isDev && ctx.isClient) {
         config.module.rules.push({
-          enforce: "pre",
+          enforce: 'pre',
           test: /\.(js|vue)$/,
-          loader: "eslint-loader",
+          loader: 'eslint-loader',
           exclude: /(node_modules)/,
-          options:  {
-            fix: true
-          }
+          options: {
+            fix: true,
+          },
         })
       }
-    }
+    },
   },
 }
