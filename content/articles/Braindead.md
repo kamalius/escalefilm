@@ -23,7 +23,7 @@ Avant d'être le réalisateur de l’épopée du Seigneur des anneaux, Peter Jac
 
 Lionel est un loser qui vit avec sa mère dominante. Lionel trouve un moyen de s’échapper de cette emprise, en rencontrant la belle Paquita, mais bientôt la mère de Lionel se fait mordre par un SINGE-RAT et elle commence progressivement à se décomposer (c'est hilarant !) puis se transforme en une sorte de mort-vivant ... Lionel comme un fils aimant qu'il est, essaie de cacher le fait que sa mère est un zombie, la gardant sous tranquillisants...jusqu'à ce que, naturellement, tout l'enfer se déchaîne.
 
-Assurément le film le plus gore qu'il m'ait été donner de voir.
+Assurément le film le plus gore qu'il m'ait été donné de voir.
 Qu'est-ce qui en fait un si bon film ? C'est rapide, drôle, fou, viscéral, exagéré, décalé, violent, sanglant, idiot, extrême, visuellement extravagant... et c'est BRILLANT, c'est un film important du genre.
 Braindead est influencé par la série Evil Dead de Sam Raimi, mais le pousse beaucoup plus loin, en particulier avec le sang. Ce film est si sanglant, tellement exagéré et tellement amusant qu'il est devenu un classique culte instantané.
 
