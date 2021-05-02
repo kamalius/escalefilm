@@ -7,7 +7,7 @@
           v-for="tag of tags"
           :key="tag.slug"
           :to="`/films/tag/${tag.slug}`"
-          class="px-4 py-4"
+          class="px-4 py-2"
         >
           <button
             class="transition duration-300 ease-in-out transform hover:-translate-y-1 font-bold py-1 px-2 rounded-full focus:outline-none"

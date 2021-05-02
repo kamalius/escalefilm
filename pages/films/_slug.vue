@@ -8,15 +8,19 @@
     </div>
     <div><img :src="article.star" :alt="article.alt" class="w-32" /></div>
     <div>
-      <p>
-        Posté par: <span class="font-bold">{{ article.auteur }}</span> le:
+      <div class="flex">
+        <img src="/auteur.svg" alt="auteur" class="w-4 h-4 mr-1 mt-1" /><span
+          class="font-bold mr-3"
+          >{{ article.auteur }}</span
+        >
+        <img src="/calendar.svg" alt="date" class="w-4 mr-1" />
         <span class="font-bold">{{ formatDate(article.post_date) }}</span>
-      </p>
-      <div class="mt-5">
-        Tags:
+      </div>
+      <div class="flex mt-1 align-middle">
+        <img src="/tag_icon.svg" alt="icon_tags" class="w-5 mr-1" />
         <span v-for="(tag, id) in article.tags" :key="id">
           <nuxt-link :to="`/films/tag/${tags[tag].slug}`">
-            <span class="tag pl-auto"> &#35;{{ tags[tag].name }} </span>
+            <span class="tag pl-auto mr-3">{{ tags[tag].name }}</span>
           </nuxt-link>
         </span>
       </div>

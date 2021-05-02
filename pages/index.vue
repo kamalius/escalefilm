@@ -29,11 +29,16 @@
                     class="w-20 mt-3"
                   />
                 </div>
-                <div class="mt-6">
-                  <p class="text-gray-600">
-                    posté le {{ formatDate(article.post_date) }} par:
-                    {{ article.auteur }}
-                  </p>
+                <div class="flex mt-6 text-gray-600">
+                  <img src="/calendar.svg" alt="date" class="w-4 mr-1" />{{
+                    formatDate(article.post_date)
+                  }}
+                  <img
+                    src="/auteur.svg"
+                    alt="auteur"
+                    class="w-4 h-4 mr-1 mt-1 ml-3"
+                  />
+                  {{ article.auteur }}
                 </div>
               </div>
             </div>
