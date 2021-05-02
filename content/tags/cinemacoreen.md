@@ -1,3 +1,3 @@
 ---
-name: cinéma coréen
+name: Cinéma coréen
 ---
