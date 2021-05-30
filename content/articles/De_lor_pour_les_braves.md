@@ -3,7 +3,7 @@ title: De l'or pour les braves
 description: Un bon vieux film de guerre au ton subversif
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1608658438/KellysHeroes_iqjru5.jpg"
 auteur: Kamal
-tags: [Clint Eastwood]
+tags: [Clint Eastwood, Guerre]
 star: "/stars/3_stars.svg"
 post_date: 2020-12-22
 ---

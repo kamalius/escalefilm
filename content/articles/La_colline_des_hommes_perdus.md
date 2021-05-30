@@ -3,7 +3,7 @@ title: La colline des hommes perdus
 description: Un chef d'oeuvre brutal oublié par le temps
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1610211893/TheHill_k8jo0a.jpg"
 auteur: Kamal
-tags: [Sidney Lumet]
+tags: [Sidney Lumet, Guerre]
 star: "/stars/4.5_stars.svg"
 post_date: 2021-01-09
 ---
