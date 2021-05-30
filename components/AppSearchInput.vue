@@ -2,7 +2,15 @@
   <div>
     <div class="relative">
       <div
-        class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none"
+        class="
+          absolute
+          inset-y-0
+          left-0
+          pl-3
+          flex
+          items-center
+          pointer-events-none
+        "
       >
         <IconSearch class="icon h-5 w-5" />
       </div>

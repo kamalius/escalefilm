@@ -3,7 +3,16 @@
     <Nuxt />
     <div class="headiv"></div>
     <div
-      class="headimage flex h-64 items-center justify-center mx-auto shadow bg-cover"
+      class="
+        headimage
+        flex
+        h-64
+        items-center
+        justify-center
+        mx-auto
+        shadow
+        bg-cover
+      "
     >
       <div
         class="flex flex-col justify-center w-56 text-white italic font-normal"

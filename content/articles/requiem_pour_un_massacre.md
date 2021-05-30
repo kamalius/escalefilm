@@ -3,7 +3,7 @@ title: Requiem pour un massacre
 description: Une odyssée dans l'horreur de la guerre.
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1606136247/requiem.jpg"
 auteur: Kamal
-tags: [Cinéma russe]
+tags: [Cinéma russe, Guerre]
 star: "/stars/5_stars.svg"
 post_date: 2020-11-23
 ---

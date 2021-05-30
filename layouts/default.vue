@@ -1,7 +1,19 @@
 <template>
   <div class="flex flex-col h-screen">
     <header
-      class="bg-opacity-100 px-6 py-5 z-50 fixed w-full top-0 transition-all ease-in-out duration-500 nice-shadow"
+      class="
+        bg-opacity-100
+        px-6
+        py-5
+        z-50
+        fixed
+        w-full
+        top-0
+        transition-all
+        ease-in-out
+        duration-500
+        nice-shadow
+      "
     >
       <div class="mx-auto flex items-center justify-between">
         <div class="mr-3 items-center">
@@ -20,7 +32,13 @@
             <div class="mr-2 mt-2"><ColorModePicker /></div>
             <div class="items-end">
               <nav
-                class="md:ml-auto flex flex-wrap items-center text-base justify-end"
+                class="
+                  md:ml-auto
+                  flex flex-wrap
+                  items-center
+                  text-base
+                  justify-end
+                "
               >
                 <nuxt-link to="/tags" class="mr-5 font-bold">Tags</nuxt-link>
                 <nuxt-link to="/kamal" class="font-bold mr-5"

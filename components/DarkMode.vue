@@ -1,17 +1,42 @@
 <template>
   <button
-    class="focus:outline-none relative flex transition-colors duration-300 items-center justify-center ease-linear"
+    class="
+      focus:outline-none
+      relative
+      flex
+      transition-colors
+      duration-300
+      items-center
+      justify-center
+      ease-linear
+    "
     @click="toggle"
   >
     <span
       v-if="this.$colorMode.preference === 'light'"
-      class="relative overflow-hidden inline-block w-5 h-5 items-center justify-center"
+      class="
+        relative
+        overflow-hidden
+        inline-block
+        w-5
+        h-5
+        items-center
+        justify-center
+      "
       ><img src="/light-mode.svg" alt="lightmode" class="hide w-5 h-5 absolute"
     /></span>
 
     <span
       v-if="this.$colorMode.preference === 'dark'"
-      class="relative overflow-hidden inline-block w-5 h-5 items-center justify-center"
+      class="
+        relative
+        overflow-hidden
+        inline-block
+        w-5
+        h-5
+        items-center
+        justify-center
+      "
       ><img src="/dark-mode.svg" alt="" class="show w-5 h-5 absolute"
     /></span>
   </button>

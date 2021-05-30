@@ -3,7 +3,16 @@
     <div class="h-full text-center">
       <img
         alt="testimonial"
-        class="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 bg-gray-100"
+        class="
+          w-20
+          h-20
+          mb-8
+          object-cover object-center
+          rounded-full
+          inline-block
+          border-2
+          bg-gray-100
+        "
         src="https://res.cloudinary.com/escalefilm/image/upload/v1605267712/kamal_ppn0z4.jpg"
       />
       <p class="leading-relaxed">
