@@ -3,7 +3,7 @@ title: J'ai rencontré le diable
 description: Chef-d'oeuvre sans compromis, dérangeant et inoubliable!
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1613585179/devil_bepx7e.jpg"
 auteur: Kamal
-tags: [cinéma coréen]
+tags: [Cinéma coréen]
 star: "/stars/4.5_stars.svg"
 post_date: 2021-02-17
 ---
