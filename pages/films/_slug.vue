@@ -73,6 +73,11 @@ export default {
 .nuxt-content h3 {
   font-weight: bold;
   font-size: 22px;
+  color: brown;
+}
+.nuxt-content h4 {
+  font-weight: bold;
+  color: brown;
 }
 .nuxt-content p {
   margin-bottom: 20px;
