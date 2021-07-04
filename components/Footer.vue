@@ -20,7 +20,7 @@
           mt-4
         "
       >
-        © 2020 escale film — fait avec
+        © 2020 - 2021 escale film — fait avec
         <span class="text-xl text-red-700">♥</span>,
         <a href="https://fr.nuxtjs.org/">Nuxt.js</a> et
         <a href="https://tailwindcss.com/">Tailwind CSS</a>
