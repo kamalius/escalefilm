@@ -6,18 +6,16 @@ auteur: Kamal
 tags: [Cinéma russe, Guerre]
 star: "/stars/5_stars.svg"
 post_date: 2020-11-23
+genre: Guerre
+realisateur: Elem Klimov
+distribution: Aleksei Kravchenko, Olga Mironova, Luibomiras Laucevitchuis
+annee: 1985
 ---
-
-1. **Genre:** Guerre
-2. **Réalisateur:** Elem Klimov
-3. **Distribution:** Aleksei Kravchenko, Olga Mironova, Luibomiras Laucevitchuis
-4. **Année de sortie:** 1985
-
-**Synopsis:**
+<span style="color:#db161c">**Synopsis:**</span>
 
 1943 en Biélorussie, deux enfants s'amusent en creusant dans le sable pour y trouver des objets de soldats morts. L'un deux, Fiora, déterre une arme. C'est le début d'une errance au cœur de l'horreur de la guerre.
 
-**Mon avis:**
+<span style="color:#db161c">**Mon Avis:**</span>
 
 Le cinéma russe possède vraiment des cinéastes extrêmement influents et novateurs (Eisenstein, Tarkovski...). Elem Klimov avec le film d'une vie fait parti de ceux-là.
 

@@ -3,17 +3,15 @@ title: Soy Cuba
 description: Une caméra à la virtuosité hors du commun.
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1607180763/soycuba_sjonko.jpg"
 auteur: Kamal
-tags: [Cinéma russe]
+tags: [Cinéma russe, Drame]
 star: "/stars/4_stars.svg"
 post_date: 2020-12-05
+genre: Drame
+realisateur: Mikhaïl Kalatozov
+distribution: Luz Maria Collazo, José Gallardo, Raul Garcia
+annee: 1964
 ---
-
-1. **Genre:** Drame
-2. **Réalisateur:** Mikhaïl Kalatozov
-3. **Distribution:** Luz Maria Collazo, José Gallardo, Raul Garcia
-4. **Année de sortie:** 1964
-
-**Synopsis:**
+<span style="color:#db161c">**Synopsis:**</span>
 
 Soy Cuba est un film divisé en quatre histoires bien distinctes. Elles sont toutes racontées par la voix de Raquel Revuelta qui symbolise Cuba.
 
@@ -26,7 +24,7 @@ La troisième suit Mariano un jeune étudiant castriste qui au moment de tuer un
 
 Enfin on nous présente, un paysan, Mariano qui refusant de suivre un révolutionnaire, fini par rallier les rebelles castristes après que sa maison ait été bombardée.
 
-**Mon avis:**
+<span style="color:#db161c">**Mon Avis:**</span>
 
 Soy Cuba est avant tout un film propagande sur la révolution cubaine et toute forme de lutte.
 Le film, sorti en 1964, a complètement été oublié voire censuré à cause de la guerre froide.

@@ -6,18 +6,16 @@ auteur: Kamal
 tags: [Cinéma coréen]
 star: "/stars/4.5_stars.svg"
 post_date: 2021-02-17
+genre: Thriller
+realisateur: Kim Jee-woon
+distribution: Lee Byung-hun, Choi Min-sik, Chun Ho-jin, Chun Kook-haun
+annee: 2010
 ---
-
-1. **Genre:** Thriller
-2. **Réalisateur:** Kim Jee-woon
-3. **Distribution:** Lee Byung-hun, Choi Min-sik, Chun Ho-jin, Chun Kook-haun
-4. **Année de sortie:** 2010
-
-**Synopsis:**
+<span style="color:#db161c">**Synopsis:**</span>
 
 Un agent secret se venge d'un tueur en série qui a tué sa femme en le capturant et le relâchant à maintes reprises.
 
-**Mon Avis:**
+<span style="color:#db161c">**Mon Avis:**</span>
 
 Après avoir découvert que sa fiancée avait été brutalement assassinée, l'agent secret Soo-hyun (Lee Byung-hun) est perdu et détruit. Avec l'aide de son beau-père, il met en place un plan de vengeance pour retrouver le tueur. Il retrouve rapidement le coupable, Kyung-chul (Min-sik Choi). Il le maîtrise assez facilement, mais au lieu de le tuer, il le laisse en vie. Il veut traquer sa proie et se venger lentement et d'une façon extrêmement sadique.
 

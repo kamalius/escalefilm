@@ -31,6 +31,24 @@
       :alt="article.alt"
       class="w-full h-full rounded-sm object-fit"
     />
+    <div class="intro">
+      <p>
+        <span class="font-bold color:#db161c"> Genre: </span>
+        {{ article.genre }}
+      </p>
+      <p>
+        <span class="font-bold color:#db161c"> Réalisateur: </span>
+        {{ article.realisateur }}
+      </p>
+      <p>
+        <span class="font-bold color:#db161c"> Distribution: </span>
+        {{ article.distribution }}
+      </p>
+      <p>
+        <span class="font-bold color:#db161c"> Année de sortie: </span>
+        {{ article.annee }}
+      </p>
+    </div>
     <nuxt-content :document="article" class="pb-3" />
     <div class="comments">
       <Disqus />
@@ -112,5 +130,9 @@ export default {
   font-style: italic;
   border-left: 4px solid;
   padding-left: 8px;
+}
+
+.intro span {
+  color: #db161c;
 }
 </style>

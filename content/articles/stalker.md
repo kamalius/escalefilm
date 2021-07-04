@@ -6,18 +6,16 @@ auteur: Kamal
 tags: [Andreï Tarkovski, Cinéma russe, Science Fiction]
 star: "/stars/5_stars.svg"
 post_date: 2020-10-30
+genre: Science Fiction
+realisateur: Andreï Tarkovski
+distribution: Alexandre Kaidanovski, Nikolai Grinko, Anatoli Solonitsyne
+annee: 1979
 ---
-
-1. **Genre:** Science Fiction
-2. **Réalisateur:** Andreï Tarkovski
-3. **Distribution:** Alexandre Kaidanovski, Nikolai Grinko, Anatoli Solonitsyne
-4. **Année de sortie:** 1979
-
-**Synopsis:**
+<span style="color:#db161c">**Synopsis:**</span>
 
 La zone, est un endroit dont personne ne connaît l'origine. A t'elle été créée par une bombe atomique ? Un météorite ? La venue d'extraterrestres ? La zone fait peur et elle cernée par la police. L'entrée est interdite : elle est considérée comme dangereuse. En son cœur, on dit qu'il existe un lieu, « la chambre », où tous les vœux peuvent être réalisés. Des guides, nommés « stalkers », peuvent accompagner ceux qui tentent d'atteindre la zone...
 
-**Mon avis:**
+<span style="color:#db161c">**Mon Avis:**</span>
 
 Le cinéma de Tarkovski est emprunt de poésie, de contemplation et de mysticisme.
 Le premier film de Tarkovski que j'ai vu est Solaris (après avoir vu 2001 l'odyssée de l'espace) à la cinémathèque de Toulouse. Je n'avais pas accroché plus que ça. J'ai quand même insisté dans sa filmographie avec ce fameux Stalker. Dès la première scène j'ai été fasciné par la beauté esthétique et la lenteur envoûtante que propose Tarkovski. Chaque plan est un tableau, une oeuvre d'art.

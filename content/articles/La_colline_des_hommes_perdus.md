@@ -3,21 +3,19 @@ title: La colline des hommes perdus
 description: Un chef d'oeuvre brutal oublié par le temps
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1610211893/TheHill_k8jo0a.jpg"
 auteur: Kamal
-tags: [Sidney Lumet, Guerre]
+tags: [Sidney Lumet, Guerre, Drame]
 star: "/stars/4.5_stars.svg"
 post_date: 2021-01-09
+genre: Drame, Guerre
+realisateur: Sydney Lumet
+distribution: Sean Connery, Harry Andrews, Ian Bannen, Ian Hendry
+annee: 1965
 ---
-
-1. **Genre:** Drame, Guerre 
-2. **Réalisateur:** Sydney Lumet
-3. **Distribution:** Sean Connery, Harry Andrews, Ian Bannen, Ian Hendry
-4. **Année de sortie:** 1965
-
-**Synopsis:**
+<span style="color:#db161c">**Synopsis:**</span>
 
 Pendant la seconde guerre mondiale, dans un camp disciplinaire britannique situé dans le désert libyen, les prisonniers sont persécutés par le sergent d'état-major Williams (Ian Hendry), qui les fait grimper encore et encore, sous le soleil intense, une colline artificielle construite en plein milieu du camp. Harris (Ian Bannen) est un garde plus humain et compatissant, mais le chef, RSM Wilson (Harry Andrews), refuse de renier son subordonné Williams. Un jour, cinq nouveaux prisonniers arrivent. Chacun d'eux traitera d'une manière différente avec l'autorité et la férocité de Williams.
 
-**Mon Avis:**
+<span style="color:#db161c">**Mon Avis:**</span>
 
 Sidney Lumet a réalisé ce film avec un style cruel et presque documentaire. Le film dénonce l'autoritarisme militaire et la volonté de détruire des soldats rebelles pour mieux les reconstruire en véritables Hommes. 
 

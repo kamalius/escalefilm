@@ -6,18 +6,16 @@ auteur: Kamal
 tags: [Takashi Miike]
 star: "/stars/4_stars.svg"
 post_date: 2021-03-14
+genre: Action
+realisateur: Takashi Miike
+distribution: Koji Yakusho, Takayuki Yamada, Yusuke Iseya
+annee: 2012
 ---
-
-1. **Genre:** Action
-2. **Réalisateur:** Takashi Miike
-3. **Distribution:** Koji Yakusho, Takayuki Yamada, Yusuke Iseya
-4. **Année de sortie:** 2012
-
-**Synopsis:**
+<span style="color:#db161c">**Synopsis:**</span>
 
 Un groupe d'assassins se réunit pour une mission suicide visant à tuer un seigneur maléfique.
 
-**Mon Avis:**
+<span style="color:#db161c">**Mon Avis:**</span>
 
 Takashi Miike (réalisateur japonais extrêmement prolifique) nous propose avec 13 Assassins un film dans la plus pure tradition des films de sabre (chanbara) comme les Sept Samouraïs ou la saga Baby Cart.
 

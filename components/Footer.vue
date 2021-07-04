@@ -16,11 +16,7 @@
         class="
           verticale-border
           text-sm
-          sm:ml-4
-          sm:pl-4
-          sm:border-l-2
-          sm:py-2
-          sm:mt-0
+          sm:ml-4 sm:pl-4 sm:border-l-2 sm:py-2 sm:mt-0
           mt-4
         "
       >
@@ -32,8 +28,7 @@
       <span
         class="
           inline-flex
-          sm:ml-auto
-          sm:mt-0
+          sm:ml-auto sm:mt-0
           mt-4
           justify-center
           sm:justify-start

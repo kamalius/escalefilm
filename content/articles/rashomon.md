@@ -3,21 +3,19 @@ title: Rashomôn
 description: Lion d'or Festival de Venise 1951
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1605522463/rashomon_jydnx4.jpg"
 auteur: Kamal
-tags: [Akira Kurosawa, Toshiro Mifune]
+tags: [Akira Kurosawa, Toshiro Mifune, Drame]
 star: "/stars/4.5_stars.svg"
 post_date: 2020-11-01
+genre: Drame
+realisateur: Akira Kurosawa
+distribution: Toshiro Mifune, Takashi Shimura, Machiko Kyo
+annee: 1950
 ---
-
-1. **Genre:** Drame
-2. **Réalisateur:** Akira Kurosawa
-3. **Distribution:** Toshiro Mifune, Takashi Shimura, Machiko Kyo
-4. **Année de sortie:** 1950
-
-**Synopsis:**
+<span style="color:#db161c">**Synopsis:**</span>
 
 Japon, Kyoto au Xe siècle. A l'abri sous les ruines d'un vieux temple (Rashomôn), trois hommes, un bonze, un bûcheron et un passant se mettent à évoquer un crime mystérieux, le meurtre d'un samouraï et le viol de sa femme par un bandit. Plusieurs versions des faits vont êtres exposées: celle du bandit, celle de la femme violée, celle du bûcheron et celle de l'esprit du défunt samouraï.
 
-**Mon avis:**
+<span style="color:#db161c">**Mon Avis:**</span>
 
 Rashomôn est sorti en 1950 dans un Japon encore traumatisé par la guerre et les bombardements de Nagasaki et Hiroshima. Le cinéma japonais était sous l'emprise d'une censure de la part de l'occupant américain.
 Dans ce contexte Kurosawa a connu quelques difficultés pour faire ce qu'il voulait.

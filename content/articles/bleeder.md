@@ -3,21 +3,19 @@ title: Bleeder
 description: Subtil et violent
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1612619173/BLEEDER_plgmgv.jpg"
 auteur: Kamal
-tags: [Nicolas Winding Refn]
+tags: [Nicolas Winding Refn, Drame]
 star: "/stars/3.5_stars.svg"
 post_date: 2021-02-06
+genre: Drame
+realisateur: Nicolas Winding Refn
+distribution: Kim Bodnia, Mads Mikkelsen, Rikke Louise Andersson
+annee: 1999
 ---
-
-1. **Genre:** Drame
-2. **Réalisateur:** Nicolas Winding Refn
-3. **Distribution:** Kim Bodnia, Mads Mikkelsen, Rikke Louise Andersson
-4. **Année de sortie:** 1999
-
-**Synopsis:**
+<span style="color:#db161c">**Synopsis:**</span>
 
 Léo et Louise, un jeune couple, vivent dans la banlieue de Copenhague dans un appartement en mauvais état. Léo est un ami de Lenny. Lenny travaille dans un vidéo club dirigé par Kitjo que Léo fréquente assidûment. Quand Léo découvre que Louise est enceinte et qu'elle ne souhaite pas avorter, il va devenir de plus en plus agressif et va sombrer dans la violence.
 
-**Mon avis:**
+<span style="color:#db161c">**Mon Avis:**</span>
 
 Après un premier long-métrage magistral, "Pusher", le réalisateur danois Nicolas Winding Refn, nous propose un film dans la même veine et avec quasiment les mêmes acteurs et la même équipe technique.
 

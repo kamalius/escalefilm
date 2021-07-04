@@ -6,18 +6,17 @@ auteur: Kamal
 tags: [Science Fiction]
 star: "/stars/3_stars.svg"
 post_date: 2021-04-18
+genre: Science Fiction
+realisateur: Robert Clouse
+distribution: Yul Brynner, Max von Sydow, Joanna Miles
+annee: 1975
 ---
-
-1. **Genre:** Science Fiction
-2. **Réalisateur:** Robert Clouse
-3. **Distribution:** Yul Brynner, Max von Sydow, Joanna Miles
-4. **Année de sortie:** 1975
-
-**Synopsis:**
+ <span style="color:#db161c">**Synopsis:**</span>
 
 Dans le futur, en 2012, un cataclysme inconnu a plongé le monde dans une chaleur accablante où les rares survivants se sont regroupés en petites communautés. La ville de New York n'est plus qu'une métropole fantôme. Les rares survivants vivent en bandes organisées dans des quartiers isolés et fortifiés et tentent désespérément de trouver de la nourriture. La communauté du Baron (Max von Sydow) est harcelée par la meute du redoutable Rouquin (William Smith). Devant la menace, sans cesse grandissante, le Baron décide de faire appel à un étranger, Carson (Yul Brynner), un mercenaire impitoyable armé d'un couteau. L'affrontement entre l'homme de main et le Rouquin devient peu à peu inévitable.
 
-**Mon Avis:**
+<span style="color:#db161c">**Mon Avis:**</span>
+
 
 New York ne répond plus fait partie des films qui ont marqué mon adolescence au même titre que "Assaut" de Carpenter ou "Superman" de Fleisher.
 Robert Clouse est pour moi surtout connu pour son chef d'oeuvre d'action art martiaux "Enter the Dragon" (Operation Dragon) avec notemment Bruce Lee.

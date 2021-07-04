@@ -3,21 +3,19 @@ title: Capharnaüm
 description: Le film qui a bouleversé le festival de Cannes 2018
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1608839241/capharnaum_dznv6p.jpg"
 auteur: Kamal
-tags: [Films arabes]
+tags: [Films arabes, Drame]
 star: "/stars/4.5_stars.svg"
 post_date: 2020-12-24
+genre: Drame
+realisateur: Nadine Labaki
+distribution: Zain Al Rafeea, Cedra Izam, Nadine Labaki
+annee: 2017
 ---
-
-1. **Genre:** Drame
-2. **Réalisateur:** Nadine Labaki
-3. **Distribution:** Zain Al Rafeea, Cedra Izam, Nadine Labaki
-4. **Année de sortie:** 2017
-
-**Synopsis:**
+<span style="color:#db161c">**Synopsis:**</span>
 
 Capharnaüm raconte la vie d'un enfant de la rue de 12 ans, Zain, qui vit d'expédients dans un quartier très pauvre de Beyrouth avec sa famille. Le garçon livre les commandes de ses voisins, essaie de soutirer quelques pièces aux automobilistes, aide sa mère à trafiquer des médicaments stupéfiants. Au cours d'une fugue, il rencontre Rahil, une immigrée éthiopienne sans papiers et son bébé Yonas; en l'absence de Rahil, le préadolescent s'occupe comme un frère du tout jeune Éthiopien.
 
-**Mon avis:**
+<span style="color:#db161c">**Mon Avis:**</span>
 
 Je connaissais la réalisatrice Nadine Labaki seulement à travers son premier film "Caramel".
 

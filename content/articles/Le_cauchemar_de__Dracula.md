@@ -6,19 +6,17 @@ auteur: Kamal
 tags: [Epouvante-Horreur]
 star: "/stars/4_stars.svg"
 post_date: 2021-01-23
+genre: Horreur
+realisateur: Terence Fisher
+distribution: Christopher Lee, Peter Cushing, Michael Gough
+annee: 1958
 ---
-
-1. **Genre:** Horreur
-2. **Réalisateur:** Terence Fisher
-3. **Distribution:** Christopher Lee, Peter Cushing, Michael Gough
-4. **Année de sortie:** 1958
-
-**Synopsis:**
+<span style="color:#db161c">**Synopsis:**</span>
 
 Jonathan Harker, jeune clerc de notaire, est engagé en tant que bibliothécaire par le compte Dracula. Après avoir été mordu par une femme-vampire, il devient à son tour vampire.
 Son ami le docteur Van Helsing part le "libérer" et traquer Dracula pour le détruire.
 
-**Mon Avis:**
+<span style="color:#db161c">**Mon Avis:**</span>
 
 Le cauchemar de Dracula représente le premier film autour du personnage de Dracula réalisé par le légendaire studio Hammer Films. Christopher Lee joue pour la première fois son rôle fétiche. Il représente pour moi le meilleur interprète du Comte Dracula. Ce personnage lui apportera une popularité mondial.
 

@@ -6,18 +6,16 @@ auteur: Kamal
 tags: [Epouvante-Horreur]
 star: "/stars/4_stars.svg"
 post_date: 2021-04-20
+genre: Horreur
+realisateur: Peter Jackson
+distribution: Timothy Balme, Diana Peñalver, Elizabeth Moody, Ian Watkin
+annee: 1992
 ---
-
-1. **Genre:** Horreur
-2. **Réalisateur:** Peter Jackson
-3. **Distribution:** Timothy Balme, Diana Peñalver, Elizabeth Moody, Ian Watkin
-4. **Année de sortie:** 1992
-
-**Synopsis:**
+<span style="color:#db161c">**Synopsis:**</span>
 
 1957, Lionel, un jeune homme célibataire et timide, voit sa mère, quelque peu despotique, se faire mordre par un singe-rat de Sumatra dans un zoo. D'après la légende des indigènes de cette île, ce singe-rat est maudit et transforme quiconque se fait mordre en zombie. 
 
-**Mon Avis:**
+<span style="color:#db161c">**Mon Avis:**</span>
 
 Avant d'être le réalisateur de l’épopée du Seigneur des anneaux, Peter Jackson nous a donné quelques perles du cinéma gore indépendant comme Bad Taste (son premier film) et Braindead.
 

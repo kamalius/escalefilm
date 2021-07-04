@@ -6,19 +6,17 @@ auteur: Kamal
 tags: [Epouvante-Horreur]
 star: "/stars/4_stars.svg"
 post_date: 2021-01-06
+genre: Horreur
+realisateur: Georges A. Romero
+distribution: Duane Jones, Judith O'Dea
+annee: 1968
 ---
-
-1. **Genre:** Horreur
-2. **Réalisateur:** Georges A. Romero
-3. **Distribution:** Duane Jones, Judith O'Dea
-4. **Année de sortie:** 1968
-
-**Synopsis:**
+<span style="color:#db161c">**Synopsis:**</span>
 
 En allant visiter la tombe de leur défunt père, Barbara et Johnny, tombent nez à nez avec un homme étrange qui titube. L'homme tue Johnny et Barbara s'enfuit, terrorisée.
 Elle fini par trouver refuge dans une maison perdue dans la campagne. Elle sera rejoint par d'autres personnages. Ils apprendront par la radio et la télévision qu'en fait des morts s'attaquent aux vivants.
 
-**Mon Avis:**
+<span style="color:#db161c">**Mon Avis:**</span>
 
 La nuit des morts-vivants est un film culte mis au panthéon du film d'horreur. Il est le précurseur du genre horreur-zombie.
 

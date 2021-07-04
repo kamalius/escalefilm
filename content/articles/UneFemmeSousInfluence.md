@@ -3,21 +3,19 @@ title: Une femme sous influence
 description: Vertige au fond de l'âme humaine...
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1624186887/women_ipszca.jpg"
 auteur: Kamal
-tags: [John Cassavetes]
+tags: [John Cassavetes, Drame]
 star: "/stars/4.5_stars.svg"
 post_date: 2021-06-20
+genre: Drame
+realisateur: John Cassavettes
+distribution: Gena Rowlands, Peter Falk, Fred Draper
+annee: 1974
 ---
-
-1. **Genre:**  Drame
-2. **Réalisateur:** John Cassavetes
-3. **Distribution:** Gena Rowlands, Peter Falk, Fred Draper
-4. **Année de sortie:** 1974
-
-**Synopsis:**
+<span style="color:#db161c">**Synopsis:**</span>
 
 Nick travaille sur les chantiers. À la suite d'une rupture de canalisation, il téléphone à sa femme, Mabel, pour lui annoncer qu'il ne pourra pas passer la soirée avec elle comme prévu. Mabel qui avait confié les enfants à sa mère, se retrouve seule et désemparée. Elle sort et erre dans les bars, tombe sur un inconnu qu'elle ramène à la maison. Mabel est réputée avoir des idées bizarres, avec des angoisses et des coups de cafard qui semblent inexplicables. Inconsciemment, elle cherche à se libérer des « influences » qui l’étouffent, de ce rôle de mère exemplaire, de femme sans histoire, que leur entourage voudrait qu'elle endosse.Le lendemain, Nick rentre au foyer accompagné de ses collègues, pour ne pas avoir à affronter Mabel seul. Sa femme improvise un déjeuner avec des spaghettis. Alors que Mabel cherche le réconfort, elle ne trouve que condescendance. Nick ne l'écoute pas et dépense son énergie à faire « comme si de rien n'était »
 
-**Mon Avis:**
+<span style="color:#db161c">**Mon Avis:**</span>
 
 Grand admirateur des films de Cassavetes, que j'ai découvert d'abord dans ses performances d'acteur (les douze salopards et Rosemary's baby), je peux dire qu'une femme sous influence est mon préféré.
 

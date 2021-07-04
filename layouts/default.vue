@@ -22,7 +22,17 @@
             class="flex title-font font-medium items-center mr-3 md:mb-0"
           >
             <img src="/clapperboard.svg" alt="icon_escalefilm" class="w-12" />
-            <span class="hidden sm:block titre font-medium ml-3 mr-3 text-3xl"
+            <span
+              class="
+                hidden
+                sm:block
+                titre
+                font-medium
+                italic
+                ml-3
+                mr-3
+                text-4xl
+              "
               >escale film</span
             >
           </nuxt-link>
@@ -126,6 +136,6 @@ header {
 }
 
 .titre {
-  font-family: 'Gloria Hallelujah', cursive;
+  font-family: 'Special Elite', cursive;
 }
 </style>

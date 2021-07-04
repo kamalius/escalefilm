@@ -3,12 +3,21 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
-@font-face {
+/* @font-face {
   font-family: 'Gloria Hallelujah';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src: url('~assets/fonts/GloriaHallelujah-Regular.ttf') format('truetype');
+}
+ */
+@font-face  {
+  font-family:  'Vollkorn';
+  src: url('~assets/fonts/Vollkorn/Vollkorn-VariableFont_wght.ttf') format('truetype');
+}
+@font-face  {
+  font-family:  'Special Elite';
+  src: url('~assets/fonts/SpecialElite-Regular.ttf') format('truetype');
 }
 
 :root {
@@ -50,6 +59,8 @@ body {
   color: var(--color);
   transition: background-color 0.3s;
   @apply flex flex-col h-screen;
+  font-family:  'Vollkorn', serif;
+  @apply font-medium;
 }
 
 a {
