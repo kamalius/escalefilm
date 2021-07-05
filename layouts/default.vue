@@ -111,6 +111,7 @@
         diameter: 48,
         backgroundColor: '#db161c',
         textColor: '#fff',
+        scrollDuration: 400,
       })
     </script>
   </div>
