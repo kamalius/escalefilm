@@ -8,7 +8,7 @@ star: "/stars/4_stars.svg"
 post_date: 2021-07-11
 genre: Horreur
 realisateur: Tomas Alfredson
-distribution: John Ajvide Lindqvist, John Ajvide Lindqvist
+distribution: Kåre Hedebrant, Lina Leandersson, Per Ragnar
 annee: 2009
 ---
 <span style="color:#db161c">**Synopsis:**</span>
