@@ -8,7 +8,7 @@ star: "/stars/4_stars.svg"
 post_date: 2021-07-21
 genre: Drame
 realisateur: John Cassavettes
-distribution: Gena Rowlands, Peter Falk, Fred Draper
+distribution: Gena Rowlands, John Adames, Buck Henry
 annee: 1980
 ---
 <span style="color:#db161c">**Synopsis:**</span>
