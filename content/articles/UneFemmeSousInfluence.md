@@ -3,7 +3,7 @@ title: Une femme sous influence
 description: Vertige au fond de l'âme humaine...
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1624186887/women_ipszca.jpg"
 auteur: Kamal
-tags: [John Cassavetes, Drame]
+tags: [John Cassavetes, Drame, Gena Rowlands]
 star: "/stars/4.5_stars.svg"
 post_date: 2021-06-20
 genre: Drame
