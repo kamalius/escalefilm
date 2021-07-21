@@ -23,7 +23,7 @@ Au début du film, Gloria est une femme intelligente de la rue qui est en quelqu
 
 En tant que personnage principal de "Gloria", Gena Rowlands donne une performance subtile mais puissante qui donne au film son âme et son point central. Une comédienne juste exceptionnelle.
 
-Enfin John Cassavetes donne un image parfaite de New York en 1980. Il capture parfaitement la véritable essence de New York. Le vrai grain de la ville, le cœur de la pomme. Le cadre du film est réel. J'ai eu l'impression que Cassavetes montrait New-York de jour comme Scorsese a filmé New-York de nuit avec Taxi Driver. 
+Enfin John Cassavetes donne une image superbe de New York en 1980. Il capture parfaitement la véritable essence de New York, le vrai grain de la ville, le cœur de la pomme. Le cadre du film est réel. J'ai eu l'impression que Cassavetes montrait New-York de jour comme Scorsese a filmé New-York de nuit avec Taxi Driver. 
 
 Un film a voir ne serait ce que pour que le talent de Gena Rowlands.
 
