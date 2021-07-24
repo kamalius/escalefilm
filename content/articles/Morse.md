@@ -17,7 +17,7 @@ Tiré du roman Laisse-moi entrer (intitulé Låt den rätte komma in en version 
 
 <span style="color:#db161c">**Mon Avis:**</span>
 
-Morse est film d'horreur très original, sombre, sanglant et difficile à classer. C'est une sorte de conte fantastique.
+Morse est un film d'horreur très original, sombre, sanglant et difficile à classer. C'est une sorte de conte fantastique.
 
 L'innocence et la vulnérabilité d'Oskar sont magnifiquement retranscris. Kåre Hedebrant porte admirablement le film sur ses petites épaules. Eli (Lina Leandersson) lui donne parfaitement la réplique scène après scène, ligne après ligne, et le résultat m'a littéralement donné des frissons.
 
