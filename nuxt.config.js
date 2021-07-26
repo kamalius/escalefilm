@@ -8,7 +8,12 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: "simple blog cinema où je vous partage les films qui m'ont marqué"},
+      {
+        hid: 'description',
+        name: 'description',
+        content:
+          "simple blog cinema où je vous partage les films qui m'ont marqué",
+      },
     ],
     script: [
       {
@@ -38,7 +43,16 @@ export default {
     // https://color-mode.nuxtjs.org/
     '@nuxtjs/color-mode',
     '@nuxtjs/svg',
+    '@nuxtjs/google-analytics',
   ],
+  googleAnalytics: {
+    id: process.env.GOOGLE_ANALYTICS_ID, // Use as fallback if no runtime config is provided
+  },
+  publicRuntimeConfig: {
+    googleAnalytics: {
+      id: process.env.GOOGLE_ANALYTICS_ID
+    }
+  },
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
@@ -72,5 +86,8 @@ export default {
         })
       }
     },
+  },
+  googleAnalytics: {
+    id: 'G-0YDCVPRK25',
   },
 }
