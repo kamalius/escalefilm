@@ -50,8 +50,8 @@ export default {
   },
   publicRuntimeConfig: {
     googleAnalytics: {
-      id: process.env.GOOGLE_ANALYTICS_ID
-    }
+      id: process.env.GOOGLE_ANALYTICS_ID,
+    },
   },
 
   // Modules (https://go.nuxtjs.dev/config-modules)
