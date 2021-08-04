@@ -3,7 +3,7 @@ title: The Witch
 description: Sombre et obsédant
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1628073460/theWitch_aeixsl.jpg"
 auteur: Kamal
-tags: [Epouvante-Horreur]
+tags: [Epouvante-Horreur, Robert Eggers]
 star: "/stars/4_stars.svg"
 post_date: 2021-08-04
 genre: Epouvante
