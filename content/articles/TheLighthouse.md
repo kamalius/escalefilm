@@ -24,3 +24,7 @@ Le deuxième long métrage de Robert Eggers est un moment de cinéma époustoufl
 Le film joue avec nos sens. Il y a des moments de comédie parmi la morosité. Les deux hommes échoués sur le rocher vivent une relation tumultueuse, tour à tour méfiante, colérique et même sauvage. Sont-ils menacés par une tempête, ou sont-ils en enfer ? Et la bande son ! Eggers a ce talent fou pour utiliser le son afin de créer une ambiance; les cornes de brume, le vent qui hurle sans relâche, les mouettes.
 
 Willem Dafoe et Robert Pattinson nous délivrent une performance juste hallucinante. Ils ont déclaré qu'ils se parlaient à peine sur le plateau et étaient trop épuisés pour passer du temps ensemble après une journée de tournage parce que le tournage était très exigeant physiquement en raison des conditions climatiques extrême. Alors que Pattinson séjournait dans un simple hôtel avec le reste de l'équipe de tournage, Dafoe, lui, vivait dans la solitude d'une petite maison de pêcheur. Sur le plateau, en revanche, Pattinson avait tendance à manger et à rester seul pendant les pauses de tournage, tandis que Dafoe restait avec l'équipe. Tous deux ont déclaré qu'ils s’appréciaient beaucoup après avoir eu leur première vraie conversation quelques mois plus tard. The Lighthouse est une véritable réussite.
+
+<div>
+    <iframe src="https://www.youtube.com/embed/HGQtix20zO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
