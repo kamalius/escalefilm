@@ -11,7 +11,6 @@ realisateur: Robert Eggers
 distribution: Willem Dafoe, Robert Pattinson
 annee: 2019
 ---
-
 <span style="color:#db161c">**Synopsis:**</span>
 
 Dans le dernier tiers du XIXe siècle aux États-Unis, deux gardiens de phare viennent relever l'équipe précédente sur un îlot éloigné des terres, au large de la Nouvelle-Angleterre. Ils doivent y rester quatre semaines mais la tempête empêchera le bateau de venir les chercher. Le chef de phare est très autoritaire et se réserve l'accès à la lampe du phare, où il cache peut-être un secret que son assistant voudrait connaître. Celui-ci effectue sa première mission et découvre le métier, mais le chef le cantonne aux plus basses besognes. Il a cependant lui aussi un secret et pourrait ne pas être celui qu'il prétend. Il est en outre en proie à des cauchemars et à des hallucinations, et est hanté par ses visions, en particulier celle d'une sirène.
