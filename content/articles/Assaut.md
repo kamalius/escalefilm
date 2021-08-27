@@ -10,6 +10,8 @@ genre: Action, Policier
 realisateur: John Carpenter
 distribution: Austin Stoker, Darwin Joston, Laurie Zimmer
 annee: 1976
+vod: '/youTube.svg'
+link_vod: 'https://www.youtube.com/watch?v=DN9_RgEa4gE&t=567s'
 ---
 
 <span style="color:#db161c">**Synopsis:**</span>
