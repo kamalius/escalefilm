@@ -24,6 +24,12 @@
           </nuxt-link>
         </span>
       </div>
+      <div v-if="article.vod" class="flex w-36">
+        <a :href="article.link_vod" class="flex items-center"
+          ><span class="font-bold">Voir sur </span
+          ><img class="w-20 h-12" :src="article.vod" alt=""
+        /></a>
+      </div>
     </div>
 
     <img

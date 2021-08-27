@@ -10,6 +10,8 @@ genre: Thriller
 realisateur: Kim Jee-woon
 distribution: Lee Byung-hun, Choi Min-sik, Chun Ho-jin, Chun Kook-haun
 annee: 2010
+vod: '/prime.svg'
+link_vod: 'https://www.primevideo.com/dp/amzn1.dv.gti.2eb68827-2c78-6450-9271-1c6310471b83?autoplay=1&ref_=atv_cf_strg_wb'
 ---
 <span style="color:#db161c">**Synopsis:**</span>
 

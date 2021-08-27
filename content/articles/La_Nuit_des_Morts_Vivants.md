@@ -10,6 +10,8 @@ genre: Horreur
 realisateur: Georges A. Romero
 distribution: Duane Jones, Judith O'Dea
 annee: 1968
+vod: '/youTube.svg'
+link_vod: 'https://www.youtube.com/watch?v=xYq3zDfZcTg&t=352s'
 ---
 <span style="color:#db161c">**Synopsis:**</span>
 

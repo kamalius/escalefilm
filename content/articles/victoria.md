@@ -10,6 +10,8 @@ genre: Drame
 realisateur: Sebastian Schipper
 distribution:  Laia Costa, Frederick Lau, Franz Rogowski, Burak Yigit
 annee: 2015
+vod: '/prime.svg'
+link_vod: 'https://www.primevideo.com/dp/amzn1.dv.gti.5ab789c7-83a9-47ed-d76e-50390e68bb8e?autoplay=1&ref_=atv_cf_strg_wb'
 ---
 <span style="color:#db161c">**Synopsis:**</span>
 

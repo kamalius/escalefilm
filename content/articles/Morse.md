@@ -10,6 +10,8 @@ genre: Horreur
 realisateur: Tomas Alfredson
 distribution: Kåre Hedebrant, Lina Leandersson, Per Ragnar
 annee: 2009
+vod: '/prime.svg'
+link_vod: 'https://www.primevideo.com/detail/0S81Y8N4OMI862RCM1EAKUWG2D/ref=atv_sr_fle_c_Tn74RA__1_1_1?pageTypeId=B08THYF456&tag=alloprime-21&qid=1630096415&pageTypeIdSource=ASIN&sr=1-1'
 ---
 <span style="color:#db161c">**Synopsis:**</span>
 

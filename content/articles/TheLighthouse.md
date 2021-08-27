@@ -10,6 +10,8 @@ genre: Horreur
 realisateur: Robert Eggers
 distribution: Willem Dafoe, Robert Pattinson
 annee: 2019
+vod: '/prime.svg'
+link_vod: 'https://www.primevideo.com/dp/amzn1.dv.gti.44b88474-75a9-9fc9-4294-24d4a5041fe9?autoplay=1&ref_=atv_cf_strg_wb'
 ---
 <span style="color:#db161c">**Synopsis:**</span>
 

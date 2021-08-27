@@ -10,6 +10,8 @@ genre: Drame
 realisateur: Nuri Bilge Ceylan
 distribution: Haluk Bilginer, Melisa Sözen, Demet Akbağ
 annee: 2014
+vod: '/prime.svg'
+link_vod: 'https://www.primevideo.com/detail/0MRWZ10FSFWM7B0XYCJHAB6VCW/ref=atv_sr_fle_c_Tn74RA__1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B07NDJ6VQX&qid=1630097166'
 ---
 <span style="color:#db161c">**Synopsis:**</span>
 

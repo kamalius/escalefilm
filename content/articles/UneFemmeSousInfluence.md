@@ -10,6 +10,8 @@ genre: Drame
 realisateur: John Cassavettes
 distribution: Gena Rowlands, Peter Falk, Fred Draper
 annee: 1974
+vod: '/youTube.svg'
+link_vod: 'https://www.youtube.com/watch?v=FZtodsJQjYA'
 ---
 <span style="color:#db161c">**Synopsis:**</span>
 

@@ -10,6 +10,8 @@ genre: Drame
 realisateur: Nicolas Winding Refn
 distribution: Kim Bodnia, Mads Mikkelsen, Rikke Louise Andersson
 annee: 1999
+vod: '/prime.svg'
+link_vod: 'https://www.primevideo.com/detail/amzn1.dv.gti.8cbabd0d-8577-1c57-ffde-701088bbe540?tag=alloprime-21'
 ---
 <span style="color:#db161c">**Synopsis:**</span>
 

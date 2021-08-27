@@ -10,6 +10,8 @@ genre: Science Fiction
 realisateur: Andreï Tarkovski
 distribution: Alexandre Kaidanovski, Nikolai Grinko, Anatoli Solonitsyne
 annee: 1979
+vod: '/youTube.svg'
+link_vod: 'https://www.youtube.com/watch?v=TGRDYpCmMcM'
 ---
 <span style="color:#db161c">**Synopsis:**</span>
 

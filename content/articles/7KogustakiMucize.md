@@ -10,6 +10,8 @@ genre: Drame
 realisateur: Mehmet Ada Öztekin
 distribution: Aras Bulut İynemli, Nisa Sofiya Aksongur, Celile Toyon
 annee: 2019
+vod: '/netflix.svg'
+link_vod: 'https://www.netflix.com/title/81239779'
 ---
 <span style="color:#db161c">**Synopsis:**</span>
 

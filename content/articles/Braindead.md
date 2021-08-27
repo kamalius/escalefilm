@@ -10,6 +10,8 @@ genre: Horreur
 realisateur: Peter Jackson
 distribution: Timothy Balme, Diana Peñalver, Elizabeth Moody, Ian Watkin
 annee: 1992
+vod: '/youTube.svg'
+link_vod: 'https://www.youtube.com/watch?v=wihjqynAmac'
 ---
 <span style="color:#db161c">**Synopsis:**</span>
 
