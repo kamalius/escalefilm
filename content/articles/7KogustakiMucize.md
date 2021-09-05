@@ -19,9 +19,9 @@ Memo, un berger souffrant d'un handicap mental, vit avec sa fille et sa mère da
 
 <span style="color:#db161c">**Mon Avis:**</span>
 
-7 Koğuştaki Mucize est film turc basé sur un drame coréen "Miracle in cell No. 7".
+7 Koğuştaki Mucize est un film turc basé sur un drame coréen "Miracle in cell No. 7".
 
-Ce film est profondément touchant et magnifiquement raconté. Le jeu d'acteur est subtil est juste surtout les personnages principaux "Memo" joué par Aras Bulut Iyinemli et sa fille "Ova" jouée par l'incroyable Nisa Sofiya Aksongur. La mise en scène est superbe le rythme du film est parfait et les paysages turcs sont magnifiques.
+Ce film est profondément touchant et magnifiquement raconté. Le jeu d'acteur est subtil et juste surtout les personnages principaux "Memo" joué par Aras Bulut Iyinemli et sa fille "Ova" jouée par l'incroyable Nisa Sofiya Aksongur. La mise en scène est superbe, le rythme du film est parfait et les paysages turcs sont magnifiques.
 
 Si vos yeux et vos oreilles sont bien connectés à votre cœur et à votre âme, si vos glandes lacrymales sont complètement pleines et prêtes à swinguer, alors foncez ! Préparez-vous à ressentir un choc émotionnel comme si vous faisiez partie de la famille des personnages de l'histoire. C'est probablement l'un des films les plus bouleversant que j'ai jamais vu. Ce film vous mettra le cœur à genoux. Le cinéma turc n'en finit pas de me surprendre. Bravo !
 
