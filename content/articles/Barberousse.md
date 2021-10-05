@@ -22,7 +22,7 @@ Akira Kurosawa est mon réalisateur préféré. C'est dans ses films que je ress
 
 Barberousse traite de la question de l'injustice sociale et parcourt deux des sujets favoris de Kurosawa : l'humanisme existentiel et l'existentialisme.
 Il s'agit aussi du dernier des seize films pour lesquels Akira Kurosawa a travaillé avec Toshiro Mifune.
-Enfin Barberousse est le dernier film de Kurosawa en noir et blanc, et le tournage, le plus long jamais effectué par le réalisateur (une année après 5 mois de pré-production). Les résultats obtenus à l’époque avec la couleur ne lui convenant pas il a mis du temps avant de réaliser son premier film couleur: 'Dodeskaden'.
+Enfin Barberousse est le dernier film de Kurosawa en noir et blanc, et le tournage le plus long jamais effectué par le réalisateur (une année après 5 mois de pré-production). Les résultats obtenus à l’époque avec la couleur ne lui convenant pas il a mis du temps avant de réaliser son premier film couleur: 'Dodeskaden'.
 
 Ici la mise en scène est comme d'habitude de premier ordre et Toshiro Mifune montre au monde, encore une fois, qu'il est parmi les meilleurs acteurs sinon le meilleur. La musique mérite une mention spéciale. Chaque sous-intrigue a sa propre densité, et son aperçu des valeurs humaines. La façon dont le film se déroule est passionnante. Kurosawa prend son temps pour établir ses personnages et une fois que c'est fait, l'accent est mis sur l'histoire et les histoires annexes.
 
