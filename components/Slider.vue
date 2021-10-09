@@ -1,55 +1,77 @@
 <template>
-  <div class="slider">
-    <div class="slides flex">
-      <div class="slide">
-        <img
-          src="https://res.cloudinary.com/escalefilm/image/upload/v1627916138/Dune_njrael.jpg"
-          alt=""
-        />
-      </div>
-      <div class="slide">
-        <img
-          src="https://res.cloudinary.com/escalefilm/image/upload/v1622311408/katanga_s4rxpg.jpg"
-          alt=""
-        />
-      </div>
-      <div class="slide">
-        <img
-          src="https://res.cloudinary.com/escalefilm/image/upload/v1615734697/13Assassins_trenxq.jpg"
-          alt=""
-        />
-      </div>
-    </div>
+  <div class="wz-slider">
+    <figure>
+      <img
+        src="https://res.cloudinary.com/escalefilm/image/upload/v1633793541/1280x680_gettyimages-507246031_vegkqc.jpg"
+      />
+      <img
+        src="https://res.cloudinary.com/escalefilm/image/upload/v1633793541/Taxi-Driver_ahkdlv.jpg"
+      />
+      <img
+        src="https://res.cloudinary.com/escalefilm/image/upload/v1633793541/andrei-tarkovski-1_nfq8hb.jpg"
+      />
+      <img
+        src="https://res.cloudinary.com/escalefilm/image/upload/v1633793541/2470482_wgidkr.jpg"
+      />
+      <img
+        src="https://res.cloudinary.com/escalefilm/image/upload/v1633793541/kurosawa-akira_gmjwtd.jpg"
+      />
+    </figure>
   </div>
 </template>
 
-<style scoped>
-.slider {
-  width: 500px;
+<style>
+.wz-slider {
+  width: 100%;
+  max-height: 650px;
+  margin: 80px auto;
   overflow: hidden;
-  margin: 150px auto;
-  margin-top: 102px;
-}
-.slides {
-  width: calc(500px * 3);
-  animation: glisse 10s infinite;
-}
-.slide {
-  width: 100vw;
 }
 
-@keyframes glisse {
+.wz-slider figure img {
+  padding: 5px;
+  width: 20%;
+  height: auto;
+  float: left;
+}
+.wz-slider figure {
+  position: relative;
+  width: 500%;
+  margin: 0;
+  left: 0;
+  animation: webzone 30s infinite linear;
+}
+
+@keyframes webzone {
   0% {
-    transform: translateX(0);
+    left: 0%;
   }
-  33% {
-    transform: translateX(-500px);
+  15% {
+    left: 0%;
   }
-  66% {
-    transform: translateX(-1000px);
+  20% {
+    left: -100%;
+  }
+  35% {
+    left: -100%;
+  }
+  40% {
+    left: -200%;
+  }
+  60% {
+    left: -200%;
+  }
+  65% {
+    left: -300%;
+  }
+  80% {
+    left: -300%;
+  }
+  85% {
+    left: -400%;
   }
   100% {
-    transform: translateX(0);
+    left: -400%;
   }
 }
 </style>
