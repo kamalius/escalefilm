@@ -1,1 +1,3 @@
-<template><Slider /></template>
+<template>
+  <div><Slider /><Sociaux /></div>
+</template>

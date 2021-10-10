@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Slider />
+    <Banner />
     <div class="container mt-20 px-5 mx-auto">
       <div class="flex flex-wrap -mx-3 xl:-mx-6">
         <div

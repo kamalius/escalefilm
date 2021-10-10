@@ -3,16 +3,7 @@
     <Nuxt />
     <div class="headiv"></div>
     <div
-      class="
-        headimage
-        flex
-        h-64
-        items-center
-        justify-center
-        mx-auto
-        shadow
-        bg-cover
-      "
+      class="headimage flex items-center justify-center mx-auto shadow bg-cover"
     >
       <div
         class="flex flex-col justify-center w-56 text-white italic font-normal"
@@ -33,6 +24,7 @@
 }
 
 .headimage {
+  height: 400px;
   background-image: url('https://images.unsplash.com/photo-1510932443911-6b3773dafb65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80');
   background-position: center;
 }

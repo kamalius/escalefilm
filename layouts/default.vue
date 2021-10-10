@@ -54,6 +54,8 @@
                 <nuxt-link to="/kamal" class="font-bold mr-5"
                   >A propos</nuxt-link
                 >
+                <div class="flex mr-5"><Sociaux /></div>
+
                 <div><AppSearchInput /></div>
               </nav>
             </div>
@@ -95,6 +97,7 @@
               <li class="my-1">
                 <nuxt-link to="/kamal" class="font-bold">A propos</nuxt-link>
               </li>
+              <li class="flex mr-5 mb-2"><Sociaux /></li>
               <li>
                 <AppSearchInput />
               </li>
