@@ -15,6 +15,7 @@
           >
             <div
               class="
+                vign
                 flex flex-col
                 rounded-lg
                 shadow-lg
@@ -38,7 +39,7 @@
                   />
                 </div>
 
-                <div class="flex mt-6 text-gray-600">
+                <div class="vignBas flex mt-6 text-gray-600">
                   <img src="/calendar.svg" alt="date" class="w-4 mr-1" />{{
                     formatDate(article.post_date)
                   }}

@@ -21,7 +21,7 @@
 }
 
 :root {
-  --color: #1a202c;
+  --color: #0e0e10;
   --color-primary: #c53030;
   --color-secondary: #0e2233;
   --color-button: #edf2f7;
@@ -40,7 +40,7 @@
   --color-secondary: #fdf9f3;
   --color-button: #2d3748;
   --bg: #0e0e10;
-  --bg-secondary: #1a202c;
+  --bg-secondary: #0e0e10;
   --border-color: #0d2538;
   --color-search: #2d3748;
   --color-placeholder: #4a5568;

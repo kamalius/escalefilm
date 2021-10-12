@@ -12,7 +12,14 @@
             :to="{ name: 'films-slug', params: { slug: article.slug } }"
           >
             <div
-              class="flex flex-col rounded shadow-lg overflow-hidden bg-white"
+              class="
+                vign
+                flex flex-col
+                rounded
+                shadow-lg
+                overflow-hidden
+                bg-white
+              "
             >
               <img :src="article.image" class="block h-auto w-full" />
               <div class="flex-1 p-6 flex flex-col justify-between">
@@ -29,7 +36,7 @@
                     class="w-20 mt-3"
                   />
                 </div>
-                <div class="flex mt-6 text-gray-600">
+                <div class="vignBas flex mt-6 text-gray-600">
                   <img src="/calendar.svg" alt="date" class="w-4 mr-1" />{{
                     formatDate(article.post_date)
                   }}
@@ -79,9 +86,16 @@ export default {
 </script>
 
 <style>
-/* Sample `apply` at-rules with Tailwind CSS
-.container {
-@apply min-h-screen flex justify-center items-center text-center mx-auto;
+.vign {
+  background-color: var(--color);
 }
-*/
+.vign p {
+  color: var(--bg-secondary);
+}
+.vign h2 {
+  color: var(--bg-secondary);
+}
+.vignBas {
+  color: var(--bg-secondary);
+}
 </style>
