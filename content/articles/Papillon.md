@@ -17,12 +17,12 @@ Henri Charrière dit "Papillon", un malfrat, est jugé pour un meurtre qu'il n'a
 
 <span style="color:#db161c">**Mon Avis:**</span>
 
-L'histoire est basée sur des faits réels, elle est adaptée d'un best-seller autobiographique sur un cambrioleur français nommé Henri Charrière. Cependant le Franklin J. Schaffner prend des libertés par rapport au livre.
-Le film parle donc principalement de l'incarcération et des mauvais traitements infligés à Papillon et aux autres prisonniers. Les historiens disent qu'une partie de ce qui est revendiqué a été tiré de l'expérience d'autres prisonniers. Henri Charrière lui-même affirme que son livre est vrai à environ 75 pour cent.
+L'histoire est basée sur des faits réels, elle est adaptée d'un best-seller autobiographique sur un cambrioleur français nommé Henri Charrière. Cependant Franklin J. Schaffner prend des libertés par rapport au livre.
+Le film parle donc principalement de l'incarcération et des mauvais traitements infligés à Papillon et aux autres prisonniers. Les scenaristes disent qu'une partie de ce qui est raconté a été tiré de l'expérience d'autres prisonniers. Henri Charrière lui-même affirme que son livre est vrai à environ 75 pour cent.
 
 Papillon est un film très divertissant avec une forte dose de réalisme. En atteste le scène très graphique de la décapitation d'un prisonnier ayant violé les règles de conduite.
 
-C'est peut-être la meilleure performance de McQueen. Avec Dustin Hoffman dans le casting portant ces lentilles épaisses, il savait qu'il devait améliorer son jeu.
+C'est peut-être la meilleure performance de McQueen. Avec Dustin Hoffman dans le casting, portant ces lentilles épaisses, il savait qu'il devait améliorer son jeu.
 
 Petite anecdote: Jean-Paul Belmondo et Warren Beatty étaient les acteurs auxquels on avait d'abord pensé pour le rôle-titre quand la réalisation devait être confiée à Roman Polanski.
 
