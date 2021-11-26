@@ -1,5 +1,5 @@
 ---
-title: The Witch
+title: The witch
 description: Sombre et obsédant
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1628073460/theWitch_aeixsl.jpg"
 auteur: Kamal

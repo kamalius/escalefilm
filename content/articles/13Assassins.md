@@ -1,5 +1,5 @@
 ---
-title: 13 Assassins
+title: 13 assassins
 description: Une perle signé le grand Takashi Miike
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1615734697/13Assassins_trenxq.jpg"
 auteur: Kamal

@@ -1,5 +1,5 @@
 ---
-title: Le Cauchemar de Dracula
+title: Le cauchemar de Dracula
 description: Un classique de l'horreur gothique!
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1611426526/horrorOfDracula_gb6q1y.jpg"
 auteur: Kamal

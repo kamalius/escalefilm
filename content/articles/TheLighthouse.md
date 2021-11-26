@@ -1,5 +1,5 @@
 ---
-title: The Lighthouse
+title: The lighthouse
 description: Acteurs exceptionnels!
 image: 'https://res.cloudinary.com/escalefilm/image/upload/v1628090993/The_Lighthouse_nl0awv.jpg'
 auteur: Kamal

@@ -1,5 +1,5 @@
 ---
-title: La Bataille d'Alger
+title: La bataille d'Alger
 description: Sombre réalité de la guerre et du colonialisme
 image: 'https://res.cloudinary.com/escalefilm/image/upload/v1634841356/la-bataille-dalger-716x380_ridyq6.jpg'
 auteur: Kamal

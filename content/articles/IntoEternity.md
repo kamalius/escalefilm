@@ -1,5 +1,5 @@
 ---
-title: Into Eternity
+title: Into eternity
 description: Beau, effrayant, obsédant, provocateur
 image: "https://res.cloudinary.com/escalefilm/image/upload/v1633448453/IntoEternity_x5b3nv.jpg"
 auteur: Kamal
