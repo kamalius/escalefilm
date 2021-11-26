@@ -20,7 +20,7 @@ Henri Charrière dit "Papillon", un malfrat, est jugé pour un meurtre qu'il n'a
 L'histoire est basée sur des faits réels, elle est adaptée d'un best-seller autobiographique sur un cambrioleur français nommé Henri Charrière. Cependant Franklin J. Schaffner prend des libertés par rapport au livre.
 Le film parle donc principalement de l'incarcération et des mauvais traitements infligés à Papillon et aux autres prisonniers. Les scenaristes disent qu'une partie de ce qui est raconté a été tiré de l'expérience d'autres prisonniers. Henri Charrière lui-même affirme que son livre est vrai à environ 75 pour cent.
 
-Papillon est un film très divertissant avec une forte dose de réalisme. En atteste le scène très graphique de la décapitation d'un prisonnier ayant violé les règles de conduite.
+Papillon est un film très divertissant avec une forte dose de réalisme. En atteste la scène très graphique de la décapitation d'un prisonnier ayant violé les règles de conduite.
 
 C'est peut-être la meilleure performance de McQueen. Avec Dustin Hoffman dans le casting, portant ces lentilles épaisses, il savait qu'il devait améliorer son jeu.
 
