@@ -6,10 +6,10 @@ auteur: Kamal
 tags: [Documentaire]
 star: '/stars/5_stars.svg'
 post_date: 2021-11-26
-genre: Documentaire
-réalisateur: Thomas Johnson
+genre: documentaire
+realisateur: Thomas Johnson
 distribution: Mikhaïl Gorbatchev, Hans Blix
-année: 2006
+annee: 2006
 vod: '/youTube.svg'
 link_vod: 'https://www.youtube.com/watch?v=us7_qdnKMjQ'
 ---
