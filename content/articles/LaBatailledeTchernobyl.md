@@ -1,5 +1,5 @@
 ---
-title: Assaut
+title: La bataille de Tchernobyl
 description: La pire catastrophe du XXème siècle
 image: 'https://res.cloudinary.com/escalefilm/image/upload/v1637926591/centrale-lenine-r%C3%A9acteur-4-de-tcherobyl-apr%C3%A8s-limplosion_mdnfxv.jpg'
 auteur: Kamal
