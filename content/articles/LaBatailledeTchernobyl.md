@@ -24,7 +24,7 @@ S'il y a bien eu un film qui peut mettre en garde contre les horreurs que peut e
 
 L'un des gros problèmes avec les matières radioactives est qu'elles peuvent non seulement être mortelles pour l'homme, mais qu'elles sont également invisibles et qu'elles restent actives très longtemps. Ce film met en avant le secret du gouvernement et les mensonges au lendemain de la tragédie et dans les années qui ont suivi, puis le déni qui existe maintenant parmi les personnes vivant en Ukraine et en Biélorussie voisine qui ont subi le plus gros des retombées radioactives. Un passage qui résume bien ce mensonge d'état est quand une députée du Soviet Suprême dit que le plus dangereux isotope sorti du réacteur de Tchernobyl n'est ni le césium ni le plutonium mais le mensonge: le mensonge 86 ou le M86.
 
-Les passages montrant les liquidateurs affectés au ramassage des blocs de graphite contaminé sur le toit du réacteur no°4 qui étaient appelés « robots biologiques » et absolument glaçant.
+Les passages montrant les liquidateurs affectés au ramassage des blocs de graphite contaminé sur le toit du réacteur n°4 qui étaient appelés « robots biologiques » est absolument glaçant.
 
 Ce documentaire est l'un des meilleurs et des plus obsédants films sur la question nucléaire. Si vous êtes intéressé à quelque niveau que ce soit par la catastrophe de Tchernobyl, n'hésitez pas à y jeter un coup d'œil.
 
