@@ -13,12 +13,7 @@
         </nuxt-link>
       </div>
       <p
-        class="
-          verticale-border
-          text-sm
-          sm:ml-4 sm:pl-4 sm:border-l-2 sm:py-2 sm:mt-0
-          mt-4
-        "
+        class="verticale-border text-sm sm:ml-4 sm:pl-4 sm:border-l-2 sm:py-2 sm:mt-0 mt-4"
       >
         © 2020 - 2021 escale film — fait avec
         <span class="text-xl text-red-700">♥</span>,
@@ -26,13 +21,7 @@
         <a href="https://tailwindcss.com/">Tailwind CSS</a>
       </p>
       <span
-        class="
-          inline-flex
-          sm:ml-auto sm:mt-0
-          mt-4
-          justify-center
-          sm:justify-start
-        "
+        class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start"
       >
         <a href="https://www.facebook.com/kamal.escalefilm">
           <svg

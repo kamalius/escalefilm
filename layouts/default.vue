@@ -1,19 +1,7 @@
 <template>
   <div class="flex flex-col h-screen">
     <header
-      class="
-        bg-opacity-100
-        px-6
-        py-5
-        z-50
-        fixed
-        w-full
-        top-0
-        transition-all
-        ease-in-out
-        duration-500
-        nice-shadow
-      "
+      class="bg-opacity-100 px-6 py-5 z-50 fixed w-full top-0 transition-all ease-in-out duration-500 nice-shadow"
     >
       <div class="mx-auto flex items-center justify-between">
         <div class="mr-3 items-center">
@@ -23,16 +11,7 @@
           >
             <img src="/clapperboard.svg" alt="icon_escalefilm" class="w-12" />
             <span
-              class="
-                hidden
-                sm:block
-                titre
-                font-medium
-                italic
-                ml-3
-                mr-3
-                text-4xl
-              "
+              class="hidden sm:block titre font-medium italic ml-3 mr-3 text-4xl"
               >escale film</span
             >
           </nuxt-link>
@@ -42,13 +21,7 @@
             <div class="mr-2 mt-2"><ColorModePicker /></div>
             <div class="items-end">
               <nav
-                class="
-                  md:ml-auto
-                  flex flex-wrap
-                  items-center
-                  text-base
-                  justify-end
-                "
+                class="md:ml-auto flex flex-wrap items-center text-base justify-end"
               >
                 <nuxt-link to="/tags" class="mr-5 font-bold">Tags</nuxt-link>
                 <nuxt-link to="/kamal" class="font-bold mr-5"
@@ -63,7 +36,7 @@
         </div>
         <div class="block lg:hidden items-center">
           <div class="flex flex-wrap items-center">
-            <div class="mr-2 mt-2"><ColorModePicker /></div>
+            <div class="mr-2 mt-2"><DarkMode /></div>
             <button
               class="focus:outline-none"
               aria-label="open menu"

@@ -42,7 +42,7 @@ export default {
     '@nuxtjs/tailwindcss',
     // https://color-mode.nuxtjs.org/
     '@nuxtjs/color-mode',
-    '@nuxtjs/svg',
+    // '@nuxtjs/svg',
     '@nuxtjs/google-analytics',
   ],
   googleAnalytics: {

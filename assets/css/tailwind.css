@@ -47,11 +47,11 @@
   --color-hover: #a0aec0;
 }
 .sepia-mode {
-  --color: #433422;
-  --color-secondary: #504231;
-  --bg: #f1e7d0;
-  --bg-secondary: #eae0c9;
-  --border-color: #ded0bf;
+  --color: #ebf4f1;
+  --color-secondary: #fdf9f3;
+  --bg: #0e0e10;
+  --bg-secondary: #0e0e10;
+  --border-color: #0d2538;
 }
 
 body {
@@ -88,7 +88,7 @@ a:hover {
 }
 
 .visually-hidden { 
-    @apply block absolute h-px w-px overflow-hidden whitespace-no-wrap;
+    @apply block absolute h-px w-px overflow-hidden whitespace-nowrap;
     clip: rect(1px 1px 1px 1px);
     clip: rect(1px, 1px, 1px, 1px);
     clip-path: inset(1px);

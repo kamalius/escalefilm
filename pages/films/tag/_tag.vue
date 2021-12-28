@@ -14,14 +14,7 @@
             :to="{ name: 'films-slug', params: { slug: article.slug } }"
           >
             <div
-              class="
-                vign
-                flex flex-col
-                rounded-lg
-                shadow-lg
-                overflow-hidden
-                bg-white
-              "
+              class="vign flex flex-col rounded-lg shadow-lg overflow-hidden bg-white"
             >
               <img :src="article.image" class="block h-auto w-full" />
               <div class="flex-1 p-6 flex flex-col justify-between">

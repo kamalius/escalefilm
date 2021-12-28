@@ -15,18 +15,7 @@
           class="px-4 py-2"
         >
           <button
-            class="
-              transition
-              duration-300
-              ease-in-out
-              transform
-              hover:-translate-y-1
-              font-bold
-              py-1
-              px-2
-              rounded-full
-              focus:outline-none
-            "
+            class="transition duration-300 ease-in-out transform hover:-translate-y-1 font-bold py-1 px-2 rounded-full focus:outline-none"
           >
             <span class="diese">#</span> {{ tag.name }}
           </button>
