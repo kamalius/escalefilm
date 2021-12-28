@@ -18,7 +18,7 @@
         </div>
         <div class="hidden lg:block">
           <div class="flex flex-wrap items-center">
-            <div class="mr-2"><DarkMode /></div>
+            <div class="mr-5"><DarkMode /></div>
             <div class="items-end">
               <nav
                 class="md:ml-auto flex flex-wrap items-center text-base justify-end"
@@ -36,7 +36,7 @@
         </div>
         <div class="block lg:hidden items-center">
           <div class="flex flex-wrap items-center">
-            <div class="mr-2"><DarkMode /></div>
+            <div class="mr-5"><DarkMode /></div>
             <button
               class="focus:outline-none"
               aria-label="open menu"
