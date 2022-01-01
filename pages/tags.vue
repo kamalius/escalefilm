@@ -2,7 +2,7 @@
   <main class="mx-7 lg:mx-6 mt-40 flex-grow">
     <div class="max-w-5xl mx-auto">
       <div class="flex justify-center items-center">
-        <div class="pt-8">
+        <div>
           <img src="/tag_icon.svg" alt="icon_tags" class="w-8 mr-1" />
         </div>
         <h1 class="font-bold text-3xl mt-0 mb-7 text-center pt-8">Tags:</h1>
